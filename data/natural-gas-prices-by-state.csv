@@ -1,0 +1,52 @@
+state,state_slug,year,usd_per_mcf,usd_per_therm,latest_month,latest_month_usd_per_mcf,avg_household_mcf_per_year
+Connecticut,connecticut,2024,16.83,1.623,May 2026,23.33,79.7
+Maine,maine,2024,18.95,1.827,July 2026,40.85,68.9
+Massachusetts,massachusetts,2025,25.06,2.417,July 2026,30.57,69.9
+New Hampshire,new-hampshire,2025,18.61,1.795,June 2026,21.67,59.2
+Rhode Island,rhode-island,2024,21.66,2.089,July 2026,17.33,69.7
+Vermont,vermont,2025,18,1.736,July 2026,32.73,71.7
+New Jersey,new-jersey,2025,14.21,1.370,July 2026,18.76,77.4
+New York,new-york,2025,17.58,1.695,July 2026,30.86,86.7
+Pennsylvania,pennsylvania,2025,15.04,1.450,July 2026,28.73,73.1
+Illinois,illinois,2025,11.25,1.085,July 2026,21.04,86.1
+Indiana,indiana,2025,11.49,1.108,July 2026,24.12,71.4
+Michigan,michigan,2025,10.92,1.053,July 2026,19.88,79.5
+Ohio,ohio,2025,13.85,1.336,May 2026,22.83,70.6
+Wisconsin,wisconsin,2025,10.74,1.036,July 2026,18.58,65.2
+Iowa,iowa,2025,10.61,1.023,July 2026,23.93,57.5
+Kansas,kansas,2025,14.81,1.428,May 2026,25.12,60.2
+Minnesota,minnesota,2025,10.98,1.059,July 2026,17.28,71.5
+Missouri,missouri,2025,14.94,1.441,July 2026,32,58.4
+Nebraska,nebraska,2025,11.4,1.099,July 2026,24.69,59.7
+North Dakota,north-dakota,2025,9.5,0.916,July 2026,27.68,73.3
+South Dakota,south-dakota,2025,9.86,0.951,July 2026,17.77,57.7
+Delaware,delaware,2025,15.97,1.540,July 2026,33.41,54.4
+District of Columbia,district-of-columbia,2025,16.68,1.608,July 2026,31.62,66.9
+Florida,florida,2025,25.48,2.457,,,21.5
+Georgia,georgia,2025,20.42,1.969,July 2026,43.28,68.7
+Maryland,maryland,2024,16.14,1.556,July 2026,24.22,60.7
+North Carolina,north-carolina,2024,16.42,1.583,July 2026,34.09,47.6
+South Carolina,south-carolina,2024,16.91,1.631,July 2026,29.9,39.9
+Virginia,virginia,2025,16.79,1.619,July 2026,29.83,57.7
+West Virginia,west-virginia,2025,13.8,1.331,May 2026,24.68,62.3
+Alabama,alabama,2025,17.56,1.693,July 2026,25.16,36.9
+Kentucky,kentucky,2025,14.23,1.372,July 2026,36.74,52.5
+Mississippi,mississippi,2025,16.65,1.606,July 2026,30.6,45.4
+Tennessee,tennessee,2025,11.84,1.142,July 2026,20.35,53
+Arkansas,arkansas,2025,19.25,1.856,July 2026,30.26,48.5
+Louisiana,louisiana,2025,17.39,1.677,April 2026,25.19,34.2
+Oklahoma,oklahoma,2025,14.38,1.387,July 2026,39.23,54
+Texas,texas,2025,19.42,1.873,July 2026,34.3,37.1
+Arizona,arizona,2025,18.58,1.792,July 2026,26.31,29.6
+Colorado,colorado,2025,11.17,1.077,July 2026,17.56,66.5
+Idaho,idaho,2025,7.69,0.742,July 2026,13.29,69.7
+Montana,montana,2025,8.99,0.867,July 2026,12.4,71.2
+Nevada,nevada,2025,13.14,1.267,July 2026,15.47,45.6
+New Mexico,new-mexico,2025,9.83,0.948,July 2026,13.21,57.8
+Utah,utah,2025,10.19,0.983,July 2026,12.38,67.2
+Wyoming,wyoming,2025,11.74,1.132,July 2026,28.22,69.5
+California,california,2025,22.01,2.122,July 2026,21.35,36.7
+Oregon,oregon,2025,16.71,1.611,July 2026,23.23,55.5
+Washington,washington,2025,17.62,1.699,July 2026,25.72,65.6
+Alaska,alaska,2025,12.96,1.250,July 2026,17.49,148.4
+Hawaii,hawaii,2025,52.38,5.051,July 2026,65.72,21.5

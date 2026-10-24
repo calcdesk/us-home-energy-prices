@@ -1,0 +1,52 @@
+state,state_slug,month,cents_per_kwh,cents_per_kwh_year_ago,avg_monthly_kwh_2024,avg_monthly_bill_usd_2024
+Connecticut,connecticut,July 2026,24.16,27.6,695,199.66
+Maine,maine,July 2026,32.41,27.98,550,133.6
+Massachusetts,massachusetts,July 2026,30.49,30.07,570,167.2
+New Hampshire,new-hampshire,July 2026,26.6,22.79,619,144.87
+Rhode Island,rhode-island,July 2026,28.29,26.18,567,162.4
+Vermont,vermont,July 2026,23.75,22.14,574,125.66
+New Jersey,new-jersey,July 2026,25.19,25.32,662,128.13
+New York,new-york,July 2026,29.9,26.22,571,139.53
+Pennsylvania,pennsylvania,July 2026,21.72,19.51,817,145.17
+Illinois,illinois,July 2026,19.22,17.22,693,109.99
+Indiana,indiana,July 2026,16.73,16.18,901,133.06
+Michigan,michigan,July 2026,23.05,20.55,618,119.31
+Ohio,ohio,July 2026,19.45,17.38,846,135.16
+Wisconsin,wisconsin,July 2026,19.06,18.25,645,110.87
+Iowa,iowa,July 2026,15.99,15.31,832,111.54
+Kansas,kansas,July 2026,15.27,14.46,876,123.9
+Minnesota,minnesota,July 2026,17.45,16.92,712,110.06
+Missouri,missouri,July 2026,16.09,15.56,1001,129.18
+Nebraska,nebraska,July 2026,13.78,12.84,956,110.28
+North Dakota,north-dakota,July 2026,13.41,13.31,1029,118.38
+South Dakota,south-dakota,July 2026,15.37,14.52,994,127.81
+Delaware,delaware,July 2026,18.48,16.58,911,150.87
+District of Columbia,district-of-columbia,July 2026,25.21,23.04,639,113.23
+Florida,florida,July 2026,15.03,15.11,1104,156.09
+Georgia,georgia,July 2026,16.27,15.56,1074,151.25
+Maryland,maryland,July 2026,21.41,18.83,929,165.87
+North Carolina,north-carolina,July 2026,15.16,13.37,1015,143.5
+South Carolina,south-carolina,July 2026,15.47,14.7,1050,149.51
+Virginia,virginia,July 2026,17.55,15.78,1032,148.77
+West Virginia,west-virginia,July 2026,15.78,15.43,1027,154.76
+Alabama,alabama,July 2026,16.4,15.93,1143,173.5
+Kentucky,kentucky,July 2026,13.81,13.13,1047,133.81
+Mississippi,mississippi,July 2026,14.54,13.58,1156,154.83
+Tennessee,tennessee,July 2026,13.71,13.21,1154,143.32
+Arkansas,arkansas,July 2026,14.33,13.26,1048,129.13
+Louisiana,louisiana,July 2026,12.72,13.12,1202,140.96
+Oklahoma,oklahoma,July 2026,14.35,13.52,1079,132.05
+Texas,texas,July 2026,15.88,15.36,1096,163.72
+Arizona,arizona,July 2026,15.38,15.34,1075,160.24
+Colorado,colorado,July 2026,17,15.99,674,100.57
+Idaho,idaho,July 2026,13.73,12.28,944,108.73
+Montana,montana,July 2026,14.99,14.27,852,107.91
+Nevada,nevada,July 2026,12.77,12.39,930,139.39
+New Mexico,new-mexico,July 2026,16.09,15.8,654,92.88
+Utah,utah,July 2026,13.12,13.45,774,94.57
+Wyoming,wyoming,July 2026,14.36,14.64,863,107.65
+California,california,July 2026,33.61,32.66,503,160.86
+Oregon,oregon,July 2026,15.97,15.61,882,129.62
+Washington,washington,July 2026,14.71,13.45,955,113.68
+Alaska,alaska,July 2026,28.83,27.3,578,143.54
+Hawaii,hawaii,July 2026,48,39.36,495,212.12

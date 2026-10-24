@@ -1,0 +1,40 @@
+state,state_slug,week,price_usd_per_gallon,prev_week,prev_price_usd_per_gallon
+United States,us,2026-10-19,2.689,2026-10-05,2.586
+Connecticut,connecticut,2026-10-19,4.226,2026-10-05,4.173
+Maine,maine,2026-10-19,3.709,2026-10-05,3.522
+Massachusetts,massachusetts,2026-10-19,3.659,2026-10-05,3.507
+New Hampshire,new-hampshire,2026-10-19,3.843,2026-10-05,3.792
+Rhode Island,rhode-island,2026-10-19,4.167,2026-10-05,3.816
+Vermont,vermont,2026-10-19,3.881,2026-10-05,3.652
+New Jersey,new-jersey,2026-10-19,4.075,2026-10-05,3.945
+New York,new-york,2026-10-19,3.727,2026-10-05,3.664
+Pennsylvania,pennsylvania,2026-10-19,3.163,2026-10-05,3.13
+Illinois,illinois,2026-10-19,1.943,2026-10-05,1.831
+Indiana,indiana,2026-10-19,2.559,2026-10-05,2.462
+Michigan,michigan,2026-10-19,2.434,2026-10-05,2.335
+Ohio,ohio,2026-10-19,2.647,2026-10-05,2.545
+Wisconsin,wisconsin,2026-10-19,1.94,2026-10-05,1.817
+Iowa,iowa,2026-10-19,1.704,2026-10-05,1.633
+Kansas,kansas,2026-10-19,2.074,2026-10-05,2.011
+Minnesota,minnesota,2026-10-19,2.014,2026-10-05,1.901
+Missouri,missouri,2026-10-19,2.181,2026-10-05,2.061
+Nebraska,nebraska,2026-10-19,1.783,2026-10-05,1.693
+North Dakota,north-dakota,2026-10-19,1.651,2026-10-05,1.608
+South Dakota,south-dakota,2026-10-19,1.87,2026-10-05,1.724
+Delaware,delaware,2026-10-19,3.755,2026-10-05,3.708
+Florida,florida,2026-10-19,4.928,2026-10-05,4.862
+Georgia,georgia,2026-10-19,3.212,2026-10-05,3.079
+Maryland,maryland,2026-10-19,3.799,2026-10-05,3.748
+North Carolina,north-carolina,2026-10-19,3.612,2026-10-05,3.55
+Virginia,virginia,2026-10-19,3.76,2026-10-05,3.677
+Alabama,alabama,2026-10-19,3.573,2026-10-05,3.521
+Kentucky,kentucky,2026-10-19,2.844,2026-10-05,2.701
+Mississippi,mississippi,2026-10-19,3.137,2026-10-05,3.047
+Tennessee,tennessee,2026-10-19,3.219,2026-10-05,3.193
+Arkansas,arkansas,2026-10-19,2.596,2026-10-05,2.297
+Oklahoma,oklahoma,2026-10-19,2.352,2026-10-05,2.294
+Texas,texas,2026-10-19,3.137,2026-10-05,3.101
+Colorado,colorado,2026-10-19,2.362,2026-10-05,2.261
+Idaho,idaho,2026-10-19,2.586,2026-10-05,2.514
+Montana,montana,2026-10-19,2.168,2026-10-05,1.914
+Utah,utah,2026-10-19,2.329,2026-10-05,2.227

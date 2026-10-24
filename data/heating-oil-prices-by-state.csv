@@ -1,0 +1,23 @@
+state,state_slug,week,price_usd_per_gallon,prev_week,prev_price_usd_per_gallon
+United States,us,2026-10-19,6.19,2026-10-05,6.05
+Connecticut,connecticut,2026-10-19,6.154,2026-10-05,6.015
+Maine,maine,2026-10-19,6.026,2026-10-05,5.974
+Massachusetts,massachusetts,2026-10-19,6.115,2026-10-05,6.137
+New Hampshire,new-hampshire,2026-10-19,6.033,2026-10-05,5.976
+Rhode Island,rhode-island,2026-10-19,6.38,2026-10-05,6.126
+Vermont,vermont,2026-10-19,6.097,2026-10-05,5.989
+New Jersey,new-jersey,2026-10-19,6.382,2026-10-05,6.129
+New York,new-york,2026-10-19,6.417,2026-10-05,6.227
+Pennsylvania,pennsylvania,2026-10-19,6.066,2026-10-05,5.852
+Indiana,indiana,2026-10-19,6.053,2026-10-05,5.75
+Michigan,michigan,2026-10-19,5.808,2026-10-05,5.615
+Ohio,ohio,2026-10-19,6.031,2026-10-05,5.699
+Wisconsin,wisconsin,2026-10-19,5.786,2026-10-05,5.599
+Iowa,iowa,2026-10-19,5.817,2026-10-05,5.68
+Minnesota,minnesota,2026-10-19,5.916,2026-10-05,5.737
+Nebraska,nebraska,2026-10-19,5.63,2026-10-05,5.332
+Delaware,delaware,2026-10-19,6.431,2026-10-05,6.196
+Maryland,maryland,2026-10-19,6.371,2026-10-05,6.089
+North Carolina,north-carolina,2026-10-19,5.828,2026-10-05,5.823
+Virginia,virginia,2026-10-19,6.003,2026-10-05,5.948
+Kentucky,kentucky,2026-10-19,5.89,2026-10-05,5.829
