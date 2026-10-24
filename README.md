@@ -1,6 +1,6 @@
 # U.S. Home Energy Prices by State (CSV, updated weekly)
 
-Clean, ready-to-use CSV files with residential energy prices for every U.S. state: heating oil, propane, natural gas, electricity and gasoline, plus the yearly EV registration fee in each state.
+**Real U.S. energy prices by state, updated every week.** Clean, ready-to-use CSV files with residential energy prices for every U.S. state: heating oil, propane, natural gas, electricity and gasoline, plus the yearly EV registration fee in each state.
 
 The price files are built from U.S. Energy Information Administration (EIA) data and refreshed automatically every week by a GitHub Action. No API key, no scraping, just CSV.
 
@@ -21,13 +21,13 @@ Every file has one row per state (plus a `United States` row where EIA publishes
 
 ```python
 import pandas as pd
-url = "https://raw.githubusercontent.com/thuhien22nd-hue/us-home-energy-prices/main/data/propane-prices-by-state.csv"
+url = "https://raw.githubusercontent.com/calcdesk/us-home-energy-prices/main/data/propane-prices-by-state.csv"
 df = pd.read_csv(url)
 print(df.sort_values("price_usd_per_gallon").head())
 ```
 
 ```r
-df <- read.csv("https://raw.githubusercontent.com/thuhien22nd-hue/us-home-energy-prices/main/data/electricity-prices-by-state.csv")
+df <- read.csv("https://raw.githubusercontent.com/calcdesk/us-home-energy-prices/main/data/electricity-prices-by-state.csv")
 ```
 
 ## Notes
