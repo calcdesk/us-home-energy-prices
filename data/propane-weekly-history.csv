@@ -1,0 +1,2146 @@
+state,state_slug,week,price_usd_per_gallon
+United States,us,2024-10-07,2.404
+United States,us,2024-10-14,2.42
+United States,us,2024-10-21,2.424
+United States,us,2024-10-28,2.43
+United States,us,2024-11-04,2.457
+United States,us,2024-11-11,2.471
+United States,us,2024-11-18,2.475
+United States,us,2024-11-25,2.485
+United States,us,2024-12-02,2.502
+United States,us,2024-12-09,2.507
+United States,us,2024-12-16,2.515
+United States,us,2024-12-23,2.522
+United States,us,2024-12-30,2.529
+United States,us,2025-01-06,2.583
+United States,us,2025-01-13,2.629
+United States,us,2025-01-20,2.717
+United States,us,2025-01-27,2.738
+United States,us,2025-02-03,2.739
+United States,us,2025-02-10,2.741
+United States,us,2025-02-17,2.751
+United States,us,2025-02-24,2.753
+United States,us,2025-03-03,2.748
+United States,us,2025-03-10,2.733
+United States,us,2025-03-17,2.713
+United States,us,2025-03-24,2.695
+United States,us,2025-03-31,2.69
+United States,us,2025-10-06,2.417
+United States,us,2025-10-13,2.425
+United States,us,2025-10-20,2.433
+United States,us,2025-10-27,2.434
+United States,us,2025-11-03,2.445
+United States,us,2025-11-10,2.448
+United States,us,2025-11-17,2.46
+United States,us,2025-11-24,2.464
+United States,us,2025-12-01,2.478
+United States,us,2025-12-08,2.511
+United States,us,2025-12-15,2.53
+United States,us,2025-12-22,2.542
+United States,us,2025-12-29,2.548
+United States,us,2026-01-05,2.554
+United States,us,2026-01-12,2.557
+United States,us,2026-01-19,2.561
+United States,us,2026-01-26,2.593
+United States,us,2026-02-02,2.642
+United States,us,2026-02-09,2.66
+United States,us,2026-02-16,2.665
+United States,us,2026-02-23,2.659
+United States,us,2026-03-02,2.652
+United States,us,2026-03-09,2.669
+United States,us,2026-03-16,2.669
+United States,us,2026-03-23,2.678
+United States,us,2026-03-30,2.674
+United States,us,2026-10-05,2.586
+United States,us,2026-10-12,2.633
+United States,us,2026-10-19,2.689
+Connecticut,connecticut,2024-10-07,3.649
+Connecticut,connecticut,2024-10-14,3.644
+Connecticut,connecticut,2024-10-21,3.662
+Connecticut,connecticut,2024-10-28,3.67
+Connecticut,connecticut,2024-11-04,3.741
+Connecticut,connecticut,2024-11-11,3.763
+Connecticut,connecticut,2024-11-18,3.773
+Connecticut,connecticut,2024-11-25,3.801
+Connecticut,connecticut,2024-12-02,3.801
+Connecticut,connecticut,2024-12-09,3.797
+Connecticut,connecticut,2024-12-16,3.805
+Connecticut,connecticut,2024-12-23,3.808
+Connecticut,connecticut,2024-12-30,3.81
+Connecticut,connecticut,2025-01-06,3.88
+Connecticut,connecticut,2025-01-13,3.922
+Connecticut,connecticut,2025-01-20,4.015
+Connecticut,connecticut,2025-01-27,4.013
+Connecticut,connecticut,2025-02-03,4.158
+Connecticut,connecticut,2025-02-10,4.193
+Connecticut,connecticut,2025-02-17,4.187
+Connecticut,connecticut,2025-02-24,4.183
+Connecticut,connecticut,2025-03-03,4.208
+Connecticut,connecticut,2025-03-10,4.122
+Connecticut,connecticut,2025-03-17,4.12
+Connecticut,connecticut,2025-03-24,4.127
+Connecticut,connecticut,2025-03-31,4.133
+Connecticut,connecticut,2025-10-06,3.688
+Connecticut,connecticut,2025-10-13,3.69
+Connecticut,connecticut,2025-10-20,3.685
+Connecticut,connecticut,2025-10-27,3.705
+Connecticut,connecticut,2025-11-03,3.727
+Connecticut,connecticut,2025-11-10,3.708
+Connecticut,connecticut,2025-11-17,3.729
+Connecticut,connecticut,2025-11-24,3.728
+Connecticut,connecticut,2025-12-01,3.745
+Connecticut,connecticut,2025-12-08,3.777
+Connecticut,connecticut,2025-12-15,3.776
+Connecticut,connecticut,2025-12-22,3.782
+Connecticut,connecticut,2025-12-29,3.794
+Connecticut,connecticut,2026-01-05,3.783
+Connecticut,connecticut,2026-01-12,3.803
+Connecticut,connecticut,2026-01-19,3.785
+Connecticut,connecticut,2026-01-26,3.797
+Connecticut,connecticut,2026-02-02,3.815
+Connecticut,connecticut,2026-02-09,3.876
+Connecticut,connecticut,2026-02-16,3.933
+Connecticut,connecticut,2026-02-23,3.941
+Connecticut,connecticut,2026-03-02,3.96
+Connecticut,connecticut,2026-03-09,4.052
+Connecticut,connecticut,2026-03-16,4.056
+Connecticut,connecticut,2026-03-23,4.087
+Connecticut,connecticut,2026-03-30,4.116
+Connecticut,connecticut,2026-10-05,4.173
+Connecticut,connecticut,2026-10-12,4.212
+Connecticut,connecticut,2026-10-19,4.226
+Maine,maine,2024-10-07,3.154
+Maine,maine,2024-10-14,3.162
+Maine,maine,2024-10-21,3.179
+Maine,maine,2024-10-28,3.173
+Maine,maine,2024-11-04,3.219
+Maine,maine,2024-11-11,3.272
+Maine,maine,2024-11-18,3.273
+Maine,maine,2024-11-25,3.293
+Maine,maine,2024-12-02,3.32
+Maine,maine,2024-12-09,3.314
+Maine,maine,2024-12-16,3.312
+Maine,maine,2024-12-23,3.32
+Maine,maine,2024-12-30,3.343
+Maine,maine,2025-01-06,3.405
+Maine,maine,2025-01-13,3.455
+Maine,maine,2025-01-20,3.523
+Maine,maine,2025-01-27,3.534
+Maine,maine,2025-02-03,3.529
+Maine,maine,2025-02-10,3.536
+Maine,maine,2025-02-17,3.564
+Maine,maine,2025-02-24,3.564
+Maine,maine,2025-03-03,3.563
+Maine,maine,2025-03-10,3.551
+Maine,maine,2025-03-17,3.543
+Maine,maine,2025-03-24,3.566
+Maine,maine,2025-03-31,3.582
+Maine,maine,2025-10-06,3.134
+Maine,maine,2025-10-13,3.122
+Maine,maine,2025-10-20,3.13
+Maine,maine,2025-10-27,3.165
+Maine,maine,2025-11-03,3.145
+Maine,maine,2025-11-10,3.146
+Maine,maine,2025-11-17,3.15
+Maine,maine,2025-11-24,3.181
+Maine,maine,2025-12-01,3.192
+Maine,maine,2025-12-08,3.245
+Maine,maine,2025-12-15,3.274
+Maine,maine,2025-12-22,3.294
+Maine,maine,2025-12-29,3.307
+Maine,maine,2026-01-05,3.302
+Maine,maine,2026-01-12,3.305
+Maine,maine,2026-01-19,3.339
+Maine,maine,2026-01-26,3.355
+Maine,maine,2026-02-02,3.359
+Maine,maine,2026-02-09,3.355
+Maine,maine,2026-02-16,3.364
+Maine,maine,2026-02-23,3.348
+Maine,maine,2026-03-02,3.361
+Maine,maine,2026-03-09,3.535
+Maine,maine,2026-03-16,3.523
+Maine,maine,2026-03-23,3.491
+Maine,maine,2026-03-30,3.523
+Maine,maine,2026-10-05,3.522
+Maine,maine,2026-10-12,3.536
+Maine,maine,2026-10-19,3.709
+Massachusetts,massachusetts,2024-10-07,3.409
+Massachusetts,massachusetts,2024-10-14,3.441
+Massachusetts,massachusetts,2024-10-21,3.472
+Massachusetts,massachusetts,2024-10-28,3.48
+Massachusetts,massachusetts,2024-11-04,3.485
+Massachusetts,massachusetts,2024-11-11,3.492
+Massachusetts,massachusetts,2024-11-18,3.502
+Massachusetts,massachusetts,2024-11-25,3.521
+Massachusetts,massachusetts,2024-12-02,3.539
+Massachusetts,massachusetts,2024-12-09,3.516
+Massachusetts,massachusetts,2024-12-16,3.49
+Massachusetts,massachusetts,2024-12-23,3.514
+Massachusetts,massachusetts,2024-12-30,3.528
+Massachusetts,massachusetts,2025-01-06,3.612
+Massachusetts,massachusetts,2025-01-13,3.634
+Massachusetts,massachusetts,2025-01-20,3.719
+Massachusetts,massachusetts,2025-01-27,3.689
+Massachusetts,massachusetts,2025-02-03,3.694
+Massachusetts,massachusetts,2025-02-10,3.707
+Massachusetts,massachusetts,2025-02-17,3.731
+Massachusetts,massachusetts,2025-02-24,3.731
+Massachusetts,massachusetts,2025-03-03,3.727
+Massachusetts,massachusetts,2025-03-10,3.706
+Massachusetts,massachusetts,2025-03-17,3.71
+Massachusetts,massachusetts,2025-03-24,3.699
+Massachusetts,massachusetts,2025-03-31,3.664
+Massachusetts,massachusetts,2025-10-06,3.405
+Massachusetts,massachusetts,2025-10-13,3.353
+Massachusetts,massachusetts,2025-10-20,3.429
+Massachusetts,massachusetts,2025-10-27,3.353
+Massachusetts,massachusetts,2025-11-03,3.389
+Massachusetts,massachusetts,2025-11-10,3.313
+Massachusetts,massachusetts,2025-11-17,3.32
+Massachusetts,massachusetts,2025-11-24,3.315
+Massachusetts,massachusetts,2025-12-01,3.329
+Massachusetts,massachusetts,2025-12-08,3.381
+Massachusetts,massachusetts,2025-12-15,3.384
+Massachusetts,massachusetts,2025-12-22,3.375
+Massachusetts,massachusetts,2025-12-29,3.376
+Massachusetts,massachusetts,2026-01-05,3.371
+Massachusetts,massachusetts,2026-01-12,3.372
+Massachusetts,massachusetts,2026-01-19,3.4
+Massachusetts,massachusetts,2026-01-26,3.406
+Massachusetts,massachusetts,2026-02-02,3.4
+Massachusetts,massachusetts,2026-02-09,3.409
+Massachusetts,massachusetts,2026-02-16,3.419
+Massachusetts,massachusetts,2026-02-23,3.449
+Massachusetts,massachusetts,2026-03-02,3.476
+Massachusetts,massachusetts,2026-03-09,3.528
+Massachusetts,massachusetts,2026-03-16,3.545
+Massachusetts,massachusetts,2026-03-23,3.591
+Massachusetts,massachusetts,2026-03-30,3.649
+Massachusetts,massachusetts,2026-10-05,3.507
+Massachusetts,massachusetts,2026-10-12,3.5
+Massachusetts,massachusetts,2026-10-19,3.659
+New Hampshire,new-hampshire,2024-10-07,3.45
+New Hampshire,new-hampshire,2024-10-14,3.473
+New Hampshire,new-hampshire,2024-10-21,3.465
+New Hampshire,new-hampshire,2024-10-28,3.471
+New Hampshire,new-hampshire,2024-11-04,3.474
+New Hampshire,new-hampshire,2024-11-11,3.49
+New Hampshire,new-hampshire,2024-11-18,3.486
+New Hampshire,new-hampshire,2024-11-25,3.481
+New Hampshire,new-hampshire,2024-12-02,3.477
+New Hampshire,new-hampshire,2024-12-09,3.468
+New Hampshire,new-hampshire,2024-12-16,3.502
+New Hampshire,new-hampshire,2024-12-23,3.509
+New Hampshire,new-hampshire,2024-12-30,3.57
+New Hampshire,new-hampshire,2025-01-06,3.674
+New Hampshire,new-hampshire,2025-01-13,3.719
+New Hampshire,new-hampshire,2025-01-20,3.757
+New Hampshire,new-hampshire,2025-01-27,3.788
+New Hampshire,new-hampshire,2025-02-03,3.785
+New Hampshire,new-hampshire,2025-02-10,3.852
+New Hampshire,new-hampshire,2025-02-17,3.869
+New Hampshire,new-hampshire,2025-02-24,3.878
+New Hampshire,new-hampshire,2025-03-03,3.868
+New Hampshire,new-hampshire,2025-03-10,3.824
+New Hampshire,new-hampshire,2025-03-17,3.823
+New Hampshire,new-hampshire,2025-03-24,3.808
+New Hampshire,new-hampshire,2025-03-31,3.802
+New Hampshire,new-hampshire,2025-10-06,3.54
+New Hampshire,new-hampshire,2025-10-13,3.432
+New Hampshire,new-hampshire,2025-10-20,3.442
+New Hampshire,new-hampshire,2025-10-27,3.444
+New Hampshire,new-hampshire,2025-11-03,3.429
+New Hampshire,new-hampshire,2025-11-10,3.453
+New Hampshire,new-hampshire,2025-11-17,3.478
+New Hampshire,new-hampshire,2025-11-24,3.492
+New Hampshire,new-hampshire,2025-12-01,3.484
+New Hampshire,new-hampshire,2025-12-08,3.526
+New Hampshire,new-hampshire,2025-12-15,3.542
+New Hampshire,new-hampshire,2025-12-22,3.548
+New Hampshire,new-hampshire,2025-12-29,3.562
+New Hampshire,new-hampshire,2026-01-05,3.533
+New Hampshire,new-hampshire,2026-01-12,3.565
+New Hampshire,new-hampshire,2026-01-19,3.586
+New Hampshire,new-hampshire,2026-01-26,3.623
+New Hampshire,new-hampshire,2026-02-02,3.657
+New Hampshire,new-hampshire,2026-02-09,3.655
+New Hampshire,new-hampshire,2026-02-16,3.669
+New Hampshire,new-hampshire,2026-02-23,3.696
+New Hampshire,new-hampshire,2026-03-02,3.683
+New Hampshire,new-hampshire,2026-03-09,3.75
+New Hampshire,new-hampshire,2026-03-16,3.75
+New Hampshire,new-hampshire,2026-03-23,3.769
+New Hampshire,new-hampshire,2026-03-30,3.78
+New Hampshire,new-hampshire,2026-10-05,3.792
+New Hampshire,new-hampshire,2026-10-12,3.813
+New Hampshire,new-hampshire,2026-10-19,3.843
+Rhode Island,rhode-island,2024-10-07,3.651
+Rhode Island,rhode-island,2024-10-14,3.552
+Rhode Island,rhode-island,2024-10-21,3.562
+Rhode Island,rhode-island,2024-10-28,3.538
+Rhode Island,rhode-island,2024-11-04,3.521
+Rhode Island,rhode-island,2024-11-11,3.505
+Rhode Island,rhode-island,2024-11-18,3.605
+Rhode Island,rhode-island,2024-11-25,3.607
+Rhode Island,rhode-island,2024-12-02,3.531
+Rhode Island,rhode-island,2024-12-09,3.574
+Rhode Island,rhode-island,2024-12-16,3.583
+Rhode Island,rhode-island,2024-12-23,3.603
+Rhode Island,rhode-island,2024-12-30,3.599
+Rhode Island,rhode-island,2025-01-06,3.687
+Rhode Island,rhode-island,2025-01-13,3.706
+Rhode Island,rhode-island,2025-01-20,3.757
+Rhode Island,rhode-island,2025-01-27,3.77
+Rhode Island,rhode-island,2025-02-03,3.833
+Rhode Island,rhode-island,2025-02-10,3.846
+Rhode Island,rhode-island,2025-02-17,3.772
+Rhode Island,rhode-island,2025-02-24,3.827
+Rhode Island,rhode-island,2025-03-03,3.817
+Rhode Island,rhode-island,2025-03-10,3.738
+Rhode Island,rhode-island,2025-03-17,3.697
+Rhode Island,rhode-island,2025-03-24,3.77
+Rhode Island,rhode-island,2025-03-31,3.758
+Rhode Island,rhode-island,2025-10-06,3.644
+Rhode Island,rhode-island,2025-10-13,3.65
+Rhode Island,rhode-island,2025-10-20,3.603
+Rhode Island,rhode-island,2025-10-27,3.575
+Rhode Island,rhode-island,2025-11-03,3.527
+Rhode Island,rhode-island,2025-11-10,3.507
+Rhode Island,rhode-island,2025-11-17,3.552
+Rhode Island,rhode-island,2025-11-24,3.563
+Rhode Island,rhode-island,2025-12-01,3.581
+Rhode Island,rhode-island,2025-12-08,3.572
+Rhode Island,rhode-island,2025-12-15,3.602
+Rhode Island,rhode-island,2025-12-22,3.641
+Rhode Island,rhode-island,2025-12-29,3.616
+Rhode Island,rhode-island,2026-01-05,3.605
+Rhode Island,rhode-island,2026-01-12,3.603
+Rhode Island,rhode-island,2026-01-19,3.605
+Rhode Island,rhode-island,2026-01-26,3.612
+Rhode Island,rhode-island,2026-02-02,3.581
+Rhode Island,rhode-island,2026-02-09,3.652
+Rhode Island,rhode-island,2026-02-16,3.674
+Rhode Island,rhode-island,2026-02-23,3.666
+Rhode Island,rhode-island,2026-03-02,3.674
+Rhode Island,rhode-island,2026-03-09,3.721
+Rhode Island,rhode-island,2026-03-16,3.781
+Rhode Island,rhode-island,2026-03-23,3.792
+Rhode Island,rhode-island,2026-03-30,3.757
+Rhode Island,rhode-island,2026-10-05,3.816
+Rhode Island,rhode-island,2026-10-12,4.093
+Rhode Island,rhode-island,2026-10-19,4.167
+Vermont,vermont,2024-10-07,3.403
+Vermont,vermont,2024-10-14,3.419
+Vermont,vermont,2024-10-21,3.461
+Vermont,vermont,2024-10-28,3.551
+Vermont,vermont,2024-11-04,3.566
+Vermont,vermont,2024-11-11,3.594
+Vermont,vermont,2024-11-18,3.609
+Vermont,vermont,2024-11-25,3.597
+Vermont,vermont,2024-12-02,3.574
+Vermont,vermont,2024-12-09,3.574
+Vermont,vermont,2024-12-16,3.585
+Vermont,vermont,2024-12-23,3.599
+Vermont,vermont,2024-12-30,3.617
+Vermont,vermont,2025-01-06,3.642
+Vermont,vermont,2025-01-13,3.763
+Vermont,vermont,2025-01-20,3.824
+Vermont,vermont,2025-01-27,3.827
+Vermont,vermont,2025-02-03,3.823
+Vermont,vermont,2025-02-10,3.844
+Vermont,vermont,2025-02-17,3.843
+Vermont,vermont,2025-02-24,3.851
+Vermont,vermont,2025-03-03,3.854
+Vermont,vermont,2025-03-10,3.85
+Vermont,vermont,2025-03-17,3.837
+Vermont,vermont,2025-03-24,3.814
+Vermont,vermont,2025-03-31,3.817
+Vermont,vermont,2025-10-06,3.668
+Vermont,vermont,2025-10-13,3.577
+Vermont,vermont,2025-10-20,3.572
+Vermont,vermont,2025-10-27,3.583
+Vermont,vermont,2025-11-03,3.492
+Vermont,vermont,2025-11-10,3.594
+Vermont,vermont,2025-11-17,3.615
+Vermont,vermont,2025-11-24,3.618
+Vermont,vermont,2025-12-01,3.624
+Vermont,vermont,2025-12-08,3.665
+Vermont,vermont,2025-12-15,3.703
+Vermont,vermont,2025-12-22,3.699
+Vermont,vermont,2025-12-29,3.703
+Vermont,vermont,2026-01-05,3.698
+Vermont,vermont,2026-01-12,3.7
+Vermont,vermont,2026-01-19,3.703
+Vermont,vermont,2026-01-26,3.738
+Vermont,vermont,2026-02-02,3.765
+Vermont,vermont,2026-02-09,3.77
+Vermont,vermont,2026-02-16,3.771
+Vermont,vermont,2026-02-23,3.784
+Vermont,vermont,2026-03-02,3.768
+Vermont,vermont,2026-03-09,3.815
+Vermont,vermont,2026-03-16,3.801
+Vermont,vermont,2026-03-23,3.728
+Vermont,vermont,2026-03-30,3.733
+Vermont,vermont,2026-10-05,3.652
+Vermont,vermont,2026-10-12,3.697
+Vermont,vermont,2026-10-19,3.881
+New Jersey,new-jersey,2024-10-07,3.295
+New Jersey,new-jersey,2024-10-14,3.302
+New Jersey,new-jersey,2024-10-21,3.303
+New Jersey,new-jersey,2024-10-28,3.355
+New Jersey,new-jersey,2024-11-04,3.445
+New Jersey,new-jersey,2024-11-11,3.462
+New Jersey,new-jersey,2024-11-18,3.51
+New Jersey,new-jersey,2024-11-25,3.492
+New Jersey,new-jersey,2024-12-02,3.506
+New Jersey,new-jersey,2024-12-09,3.528
+New Jersey,new-jersey,2024-12-16,3.576
+New Jersey,new-jersey,2024-12-23,3.594
+New Jersey,new-jersey,2024-12-30,3.598
+New Jersey,new-jersey,2025-01-06,3.652
+New Jersey,new-jersey,2025-01-13,3.738
+New Jersey,new-jersey,2025-01-20,3.83
+New Jersey,new-jersey,2025-01-27,3.917
+New Jersey,new-jersey,2025-02-03,3.925
+New Jersey,new-jersey,2025-02-10,3.949
+New Jersey,new-jersey,2025-02-17,3.968
+New Jersey,new-jersey,2025-02-24,3.94
+New Jersey,new-jersey,2025-03-03,3.908
+New Jersey,new-jersey,2025-03-10,3.838
+New Jersey,new-jersey,2025-03-17,3.832
+New Jersey,new-jersey,2025-03-24,3.795
+New Jersey,new-jersey,2025-03-31,3.809
+New Jersey,new-jersey,2025-10-06,3.533
+New Jersey,new-jersey,2025-10-13,3.522
+New Jersey,new-jersey,2025-10-20,3.516
+New Jersey,new-jersey,2025-10-27,3.512
+New Jersey,new-jersey,2025-11-03,3.515
+New Jersey,new-jersey,2025-11-10,3.53
+New Jersey,new-jersey,2025-11-17,3.528
+New Jersey,new-jersey,2025-11-24,3.539
+New Jersey,new-jersey,2025-12-01,3.538
+New Jersey,new-jersey,2025-12-08,3.555
+New Jersey,new-jersey,2025-12-15,3.596
+New Jersey,new-jersey,2025-12-22,3.602
+New Jersey,new-jersey,2025-12-29,3.614
+New Jersey,new-jersey,2026-01-05,3.617
+New Jersey,new-jersey,2026-01-12,3.613
+New Jersey,new-jersey,2026-01-19,3.619
+New Jersey,new-jersey,2026-01-26,3.64
+New Jersey,new-jersey,2026-02-02,3.681
+New Jersey,new-jersey,2026-02-09,3.709
+New Jersey,new-jersey,2026-02-16,3.726
+New Jersey,new-jersey,2026-02-23,3.712
+New Jersey,new-jersey,2026-03-02,3.729
+New Jersey,new-jersey,2026-03-09,3.764
+New Jersey,new-jersey,2026-03-16,3.794
+New Jersey,new-jersey,2026-03-23,3.808
+New Jersey,new-jersey,2026-03-30,3.821
+New Jersey,new-jersey,2026-10-05,3.945
+New Jersey,new-jersey,2026-10-12,3.988
+New Jersey,new-jersey,2026-10-19,4.075
+New York,new-york,2024-10-07,3.192
+New York,new-york,2024-10-14,3.219
+New York,new-york,2024-10-21,3.215
+New York,new-york,2024-10-28,3.218
+New York,new-york,2024-11-04,3.262
+New York,new-york,2024-11-11,3.307
+New York,new-york,2024-11-18,3.299
+New York,new-york,2024-11-25,3.322
+New York,new-york,2024-12-02,3.331
+New York,new-york,2024-12-09,3.342
+New York,new-york,2024-12-16,3.352
+New York,new-york,2024-12-23,3.358
+New York,new-york,2024-12-30,3.361
+New York,new-york,2025-01-06,3.416
+New York,new-york,2025-01-13,3.494
+New York,new-york,2025-01-20,3.573
+New York,new-york,2025-01-27,3.614
+New York,new-york,2025-02-03,3.611
+New York,new-york,2025-02-10,3.623
+New York,new-york,2025-02-17,3.631
+New York,new-york,2025-02-24,3.636
+New York,new-york,2025-03-03,3.657
+New York,new-york,2025-03-10,3.633
+New York,new-york,2025-03-17,3.608
+New York,new-york,2025-03-24,3.605
+New York,new-york,2025-03-31,3.612
+New York,new-york,2025-10-06,3.358
+New York,new-york,2025-10-13,3.367
+New York,new-york,2025-10-20,3.378
+New York,new-york,2025-10-27,3.381
+New York,new-york,2025-11-03,3.419
+New York,new-york,2025-11-10,3.401
+New York,new-york,2025-11-17,3.415
+New York,new-york,2025-11-24,3.429
+New York,new-york,2025-12-01,3.441
+New York,new-york,2025-12-08,3.467
+New York,new-york,2025-12-15,3.487
+New York,new-york,2025-12-22,3.496
+New York,new-york,2025-12-29,3.502
+New York,new-york,2026-01-05,3.497
+New York,new-york,2026-01-12,3.51
+New York,new-york,2026-01-19,3.509
+New York,new-york,2026-01-26,3.522
+New York,new-york,2026-02-02,3.573
+New York,new-york,2026-02-09,3.618
+New York,new-york,2026-02-16,3.641
+New York,new-york,2026-02-23,3.661
+New York,new-york,2026-03-02,3.67
+New York,new-york,2026-03-09,3.736
+New York,new-york,2026-03-16,3.738
+New York,new-york,2026-03-23,3.76
+New York,new-york,2026-03-30,3.747
+New York,new-york,2026-10-05,3.664
+New York,new-york,2026-10-12,3.683
+New York,new-york,2026-10-19,3.727
+Pennsylvania,pennsylvania,2024-10-07,2.765
+Pennsylvania,pennsylvania,2024-10-14,2.788
+Pennsylvania,pennsylvania,2024-10-21,2.758
+Pennsylvania,pennsylvania,2024-10-28,2.771
+Pennsylvania,pennsylvania,2024-11-04,2.817
+Pennsylvania,pennsylvania,2024-11-11,2.851
+Pennsylvania,pennsylvania,2024-11-18,2.805
+Pennsylvania,pennsylvania,2024-11-25,2.802
+Pennsylvania,pennsylvania,2024-12-02,2.839
+Pennsylvania,pennsylvania,2024-12-09,2.838
+Pennsylvania,pennsylvania,2024-12-16,2.827
+Pennsylvania,pennsylvania,2024-12-23,2.856
+Pennsylvania,pennsylvania,2024-12-30,2.858
+Pennsylvania,pennsylvania,2025-01-06,2.932
+Pennsylvania,pennsylvania,2025-01-13,3.013
+Pennsylvania,pennsylvania,2025-01-20,3.108
+Pennsylvania,pennsylvania,2025-01-27,3.181
+Pennsylvania,pennsylvania,2025-02-03,3.159
+Pennsylvania,pennsylvania,2025-02-10,3.139
+Pennsylvania,pennsylvania,2025-02-17,3.168
+Pennsylvania,pennsylvania,2025-02-24,3.145
+Pennsylvania,pennsylvania,2025-03-03,3.144
+Pennsylvania,pennsylvania,2025-03-10,3.111
+Pennsylvania,pennsylvania,2025-03-17,3.081
+Pennsylvania,pennsylvania,2025-03-24,3.027
+Pennsylvania,pennsylvania,2025-03-31,3.035
+Pennsylvania,pennsylvania,2025-10-06,2.824
+Pennsylvania,pennsylvania,2025-10-13,2.815
+Pennsylvania,pennsylvania,2025-10-20,2.815
+Pennsylvania,pennsylvania,2025-10-27,2.817
+Pennsylvania,pennsylvania,2025-11-03,2.843
+Pennsylvania,pennsylvania,2025-11-10,2.843
+Pennsylvania,pennsylvania,2025-11-17,2.878
+Pennsylvania,pennsylvania,2025-11-24,2.848
+Pennsylvania,pennsylvania,2025-12-01,2.865
+Pennsylvania,pennsylvania,2025-12-08,2.863
+Pennsylvania,pennsylvania,2025-12-15,2.914
+Pennsylvania,pennsylvania,2025-12-22,2.893
+Pennsylvania,pennsylvania,2025-12-29,2.899
+Pennsylvania,pennsylvania,2026-01-05,2.938
+Pennsylvania,pennsylvania,2026-01-12,2.885
+Pennsylvania,pennsylvania,2026-01-19,2.909
+Pennsylvania,pennsylvania,2026-01-26,3
+Pennsylvania,pennsylvania,2026-02-02,3.002
+Pennsylvania,pennsylvania,2026-02-09,2.996
+Pennsylvania,pennsylvania,2026-02-16,3.026
+Pennsylvania,pennsylvania,2026-02-23,3.033
+Pennsylvania,pennsylvania,2026-03-02,3.043
+Pennsylvania,pennsylvania,2026-03-09,3.096
+Pennsylvania,pennsylvania,2026-03-16,3.052
+Pennsylvania,pennsylvania,2026-03-23,3.057
+Pennsylvania,pennsylvania,2026-03-30,3.083
+Pennsylvania,pennsylvania,2026-10-05,3.13
+Pennsylvania,pennsylvania,2026-10-12,3.11
+Pennsylvania,pennsylvania,2026-10-19,3.163
+Illinois,illinois,2024-10-07,1.734
+Illinois,illinois,2024-10-14,1.771
+Illinois,illinois,2024-10-21,1.755
+Illinois,illinois,2024-10-28,1.756
+Illinois,illinois,2024-11-04,1.758
+Illinois,illinois,2024-11-11,1.76
+Illinois,illinois,2024-11-18,1.76
+Illinois,illinois,2024-11-25,1.761
+Illinois,illinois,2024-12-02,1.797
+Illinois,illinois,2024-12-09,1.817
+Illinois,illinois,2024-12-16,1.824
+Illinois,illinois,2024-12-23,1.831
+Illinois,illinois,2024-12-30,1.858
+Illinois,illinois,2025-01-06,1.907
+Illinois,illinois,2025-01-13,1.951
+Illinois,illinois,2025-01-20,2.034
+Illinois,illinois,2025-01-27,2.07
+Illinois,illinois,2025-02-03,2.071
+Illinois,illinois,2025-02-10,2.061
+Illinois,illinois,2025-02-17,2.075
+Illinois,illinois,2025-02-24,2.076
+Illinois,illinois,2025-03-03,2.06
+Illinois,illinois,2025-03-10,2.042
+Illinois,illinois,2025-03-17,2.011
+Illinois,illinois,2025-03-24,1.999
+Illinois,illinois,2025-03-31,1.988
+Illinois,illinois,2025-10-06,1.724
+Illinois,illinois,2025-10-13,1.732
+Illinois,illinois,2025-10-20,1.736
+Illinois,illinois,2025-10-27,1.728
+Illinois,illinois,2025-11-03,1.73
+Illinois,illinois,2025-11-10,1.736
+Illinois,illinois,2025-11-17,1.732
+Illinois,illinois,2025-11-24,1.732
+Illinois,illinois,2025-12-01,1.738
+Illinois,illinois,2025-12-08,1.812
+Illinois,illinois,2025-12-15,1.85
+Illinois,illinois,2025-12-22,1.88
+Illinois,illinois,2025-12-29,1.885
+Illinois,illinois,2026-01-05,1.897
+Illinois,illinois,2026-01-12,1.902
+Illinois,illinois,2026-01-19,1.894
+Illinois,illinois,2026-01-26,1.955
+Illinois,illinois,2026-02-02,2.132
+Illinois,illinois,2026-02-09,2.204
+Illinois,illinois,2026-02-16,2.167
+Illinois,illinois,2026-02-23,2.129
+Illinois,illinois,2026-03-02,2.068
+Illinois,illinois,2026-03-09,2.063
+Illinois,illinois,2026-03-16,2.034
+Illinois,illinois,2026-03-23,2.032
+Illinois,illinois,2026-03-30,2.026
+Illinois,illinois,2026-10-05,1.831
+Illinois,illinois,2026-10-12,1.904
+Illinois,illinois,2026-10-19,1.943
+Indiana,indiana,2024-10-07,2.137
+Indiana,indiana,2024-10-14,2.148
+Indiana,indiana,2024-10-21,2.157
+Indiana,indiana,2024-10-28,2.199
+Indiana,indiana,2024-11-04,2.257
+Indiana,indiana,2024-11-11,2.255
+Indiana,indiana,2024-11-18,2.26
+Indiana,indiana,2024-11-25,2.268
+Indiana,indiana,2024-12-02,2.312
+Indiana,indiana,2024-12-09,2.333
+Indiana,indiana,2024-12-16,2.342
+Indiana,indiana,2024-12-23,2.342
+Indiana,indiana,2024-12-30,2.349
+Indiana,indiana,2025-01-06,2.429
+Indiana,indiana,2025-01-13,2.49
+Indiana,indiana,2025-01-20,2.592
+Indiana,indiana,2025-01-27,2.606
+Indiana,indiana,2025-02-03,2.625
+Indiana,indiana,2025-02-10,2.627
+Indiana,indiana,2025-02-17,2.63
+Indiana,indiana,2025-02-24,2.63
+Indiana,indiana,2025-03-03,2.599
+Indiana,indiana,2025-03-10,2.597
+Indiana,indiana,2025-03-17,2.565
+Indiana,indiana,2025-03-24,2.507
+Indiana,indiana,2025-03-31,2.506
+Indiana,indiana,2025-10-06,2.181
+Indiana,indiana,2025-10-13,2.185
+Indiana,indiana,2025-10-20,2.217
+Indiana,indiana,2025-10-27,2.225
+Indiana,indiana,2025-11-03,2.258
+Indiana,indiana,2025-11-10,2.267
+Indiana,indiana,2025-11-17,2.281
+Indiana,indiana,2025-11-24,2.29
+Indiana,indiana,2025-12-01,2.346
+Indiana,indiana,2025-12-08,2.369
+Indiana,indiana,2025-12-15,2.391
+Indiana,indiana,2025-12-22,2.418
+Indiana,indiana,2025-12-29,2.444
+Indiana,indiana,2026-01-05,2.488
+Indiana,indiana,2026-01-12,2.499
+Indiana,indiana,2026-01-19,2.506
+Indiana,indiana,2026-01-26,2.546
+Indiana,indiana,2026-02-02,2.68
+Indiana,indiana,2026-02-09,2.746
+Indiana,indiana,2026-02-16,2.786
+Indiana,indiana,2026-02-23,2.774
+Indiana,indiana,2026-03-02,2.7
+Indiana,indiana,2026-03-09,2.693
+Indiana,indiana,2026-03-16,2.684
+Indiana,indiana,2026-03-23,2.687
+Indiana,indiana,2026-03-30,2.634
+Indiana,indiana,2026-10-05,2.462
+Indiana,indiana,2026-10-12,2.49
+Indiana,indiana,2026-10-19,2.559
+Michigan,michigan,2024-10-07,2.169
+Michigan,michigan,2024-10-14,2.178
+Michigan,michigan,2024-10-21,2.183
+Michigan,michigan,2024-10-28,2.176
+Michigan,michigan,2024-11-04,2.212
+Michigan,michigan,2024-11-11,2.217
+Michigan,michigan,2024-11-18,2.218
+Michigan,michigan,2024-11-25,2.21
+Michigan,michigan,2024-12-02,2.185
+Michigan,michigan,2024-12-09,2.18
+Michigan,michigan,2024-12-16,2.183
+Michigan,michigan,2024-12-23,2.194
+Michigan,michigan,2024-12-30,2.198
+Michigan,michigan,2025-01-06,2.234
+Michigan,michigan,2025-01-13,2.285
+Michigan,michigan,2025-01-20,2.357
+Michigan,michigan,2025-01-27,2.359
+Michigan,michigan,2025-02-03,2.359
+Michigan,michigan,2025-02-10,2.361
+Michigan,michigan,2025-02-17,2.361
+Michigan,michigan,2025-02-24,2.373
+Michigan,michigan,2025-03-03,2.37
+Michigan,michigan,2025-03-10,2.363
+Michigan,michigan,2025-03-17,2.348
+Michigan,michigan,2025-03-24,2.342
+Michigan,michigan,2025-03-31,2.342
+Michigan,michigan,2025-10-06,2.168
+Michigan,michigan,2025-10-13,2.159
+Michigan,michigan,2025-10-20,2.161
+Michigan,michigan,2025-10-27,2.157
+Michigan,michigan,2025-11-03,2.164
+Michigan,michigan,2025-11-10,2.173
+Michigan,michigan,2025-11-17,2.188
+Michigan,michigan,2025-11-24,2.188
+Michigan,michigan,2025-12-01,2.212
+Michigan,michigan,2025-12-08,2.247
+Michigan,michigan,2025-12-15,2.25
+Michigan,michigan,2025-12-22,2.244
+Michigan,michigan,2025-12-29,2.257
+Michigan,michigan,2026-01-05,2.26
+Michigan,michigan,2026-01-12,2.234
+Michigan,michigan,2026-01-19,2.24
+Michigan,michigan,2026-01-26,2.27
+Michigan,michigan,2026-02-02,2.321
+Michigan,michigan,2026-02-09,2.373
+Michigan,michigan,2026-02-16,2.373
+Michigan,michigan,2026-02-23,2.36
+Michigan,michigan,2026-03-02,2.363
+Michigan,michigan,2026-03-09,2.351
+Michigan,michigan,2026-03-16,2.354
+Michigan,michigan,2026-03-23,2.369
+Michigan,michigan,2026-03-30,2.37
+Michigan,michigan,2026-10-05,2.335
+Michigan,michigan,2026-10-12,2.392
+Michigan,michigan,2026-10-19,2.434
+Ohio,ohio,2024-10-07,2.453
+Ohio,ohio,2024-10-14,2.466
+Ohio,ohio,2024-10-21,2.45
+Ohio,ohio,2024-10-28,2.492
+Ohio,ohio,2024-11-04,2.529
+Ohio,ohio,2024-11-11,2.543
+Ohio,ohio,2024-11-18,2.527
+Ohio,ohio,2024-11-25,2.532
+Ohio,ohio,2024-12-02,2.588
+Ohio,ohio,2024-12-09,2.595
+Ohio,ohio,2024-12-16,2.608
+Ohio,ohio,2024-12-23,2.604
+Ohio,ohio,2024-12-30,2.621
+Ohio,ohio,2025-01-06,2.678
+Ohio,ohio,2025-01-13,2.705
+Ohio,ohio,2025-01-20,2.854
+Ohio,ohio,2025-01-27,2.865
+Ohio,ohio,2025-02-03,2.853
+Ohio,ohio,2025-02-10,2.847
+Ohio,ohio,2025-02-17,2.859
+Ohio,ohio,2025-02-24,2.867
+Ohio,ohio,2025-03-03,2.869
+Ohio,ohio,2025-03-10,2.836
+Ohio,ohio,2025-03-17,2.8
+Ohio,ohio,2025-03-24,2.745
+Ohio,ohio,2025-03-31,2.731
+Ohio,ohio,2025-10-06,2.539
+Ohio,ohio,2025-10-13,2.556
+Ohio,ohio,2025-10-20,2.572
+Ohio,ohio,2025-10-27,2.483
+Ohio,ohio,2025-11-03,2.411
+Ohio,ohio,2025-11-10,2.425
+Ohio,ohio,2025-11-17,2.43
+Ohio,ohio,2025-11-24,2.423
+Ohio,ohio,2025-12-01,2.469
+Ohio,ohio,2025-12-08,2.501
+Ohio,ohio,2025-12-15,2.535
+Ohio,ohio,2025-12-22,2.537
+Ohio,ohio,2025-12-29,2.545
+Ohio,ohio,2026-01-05,2.561
+Ohio,ohio,2026-01-12,2.553
+Ohio,ohio,2026-01-19,2.559
+Ohio,ohio,2026-01-26,2.613
+Ohio,ohio,2026-02-02,2.669
+Ohio,ohio,2026-02-09,2.704
+Ohio,ohio,2026-02-16,2.75
+Ohio,ohio,2026-02-23,2.73
+Ohio,ohio,2026-03-02,2.715
+Ohio,ohio,2026-03-09,2.692
+Ohio,ohio,2026-03-16,2.682
+Ohio,ohio,2026-03-23,2.699
+Ohio,ohio,2026-03-30,2.695
+Ohio,ohio,2026-10-05,2.545
+Ohio,ohio,2026-10-12,2.607
+Ohio,ohio,2026-10-19,2.647
+Wisconsin,wisconsin,2024-10-07,1.723
+Wisconsin,wisconsin,2024-10-14,1.746
+Wisconsin,wisconsin,2024-10-21,1.76
+Wisconsin,wisconsin,2024-10-28,1.759
+Wisconsin,wisconsin,2024-11-04,1.768
+Wisconsin,wisconsin,2024-11-11,1.795
+Wisconsin,wisconsin,2024-11-18,1.802
+Wisconsin,wisconsin,2024-11-25,1.808
+Wisconsin,wisconsin,2024-12-02,1.825
+Wisconsin,wisconsin,2024-12-09,1.833
+Wisconsin,wisconsin,2024-12-16,1.854
+Wisconsin,wisconsin,2024-12-23,1.865
+Wisconsin,wisconsin,2024-12-30,1.865
+Wisconsin,wisconsin,2025-01-06,1.927
+Wisconsin,wisconsin,2025-01-13,1.971
+Wisconsin,wisconsin,2025-01-20,2.081
+Wisconsin,wisconsin,2025-01-27,2.096
+Wisconsin,wisconsin,2025-02-03,2.098
+Wisconsin,wisconsin,2025-02-10,2.11
+Wisconsin,wisconsin,2025-02-17,2.125
+Wisconsin,wisconsin,2025-02-24,2.125
+Wisconsin,wisconsin,2025-03-03,2.12
+Wisconsin,wisconsin,2025-03-10,2.114
+Wisconsin,wisconsin,2025-03-17,2.09
+Wisconsin,wisconsin,2025-03-24,2.033
+Wisconsin,wisconsin,2025-03-31,2.03
+Wisconsin,wisconsin,2025-10-06,1.711
+Wisconsin,wisconsin,2025-10-13,1.723
+Wisconsin,wisconsin,2025-10-20,1.727
+Wisconsin,wisconsin,2025-10-27,1.733
+Wisconsin,wisconsin,2025-11-03,1.742
+Wisconsin,wisconsin,2025-11-10,1.746
+Wisconsin,wisconsin,2025-11-17,1.767
+Wisconsin,wisconsin,2025-11-24,1.776
+Wisconsin,wisconsin,2025-12-01,1.802
+Wisconsin,wisconsin,2025-12-08,1.856
+Wisconsin,wisconsin,2025-12-15,1.898
+Wisconsin,wisconsin,2025-12-22,1.941
+Wisconsin,wisconsin,2025-12-29,1.949
+Wisconsin,wisconsin,2026-01-05,1.96
+Wisconsin,wisconsin,2026-01-12,1.967
+Wisconsin,wisconsin,2026-01-19,1.967
+Wisconsin,wisconsin,2026-01-26,1.985
+Wisconsin,wisconsin,2026-02-02,2.022
+Wisconsin,wisconsin,2026-02-09,2.022
+Wisconsin,wisconsin,2026-02-16,2.027
+Wisconsin,wisconsin,2026-02-23,2.025
+Wisconsin,wisconsin,2026-03-02,2.062
+Wisconsin,wisconsin,2026-03-09,2.028
+Wisconsin,wisconsin,2026-03-16,2.059
+Wisconsin,wisconsin,2026-03-23,2.069
+Wisconsin,wisconsin,2026-03-30,2.066
+Wisconsin,wisconsin,2026-10-05,1.817
+Wisconsin,wisconsin,2026-10-12,1.889
+Wisconsin,wisconsin,2026-10-19,1.94
+Iowa,iowa,2024-10-07,1.523
+Iowa,iowa,2024-10-14,1.526
+Iowa,iowa,2024-10-21,1.533
+Iowa,iowa,2024-10-28,1.531
+Iowa,iowa,2024-11-04,1.546
+Iowa,iowa,2024-11-11,1.542
+Iowa,iowa,2024-11-18,1.541
+Iowa,iowa,2024-11-25,1.541
+Iowa,iowa,2024-12-02,1.557
+Iowa,iowa,2024-12-09,1.565
+Iowa,iowa,2024-12-16,1.573
+Iowa,iowa,2024-12-23,1.582
+Iowa,iowa,2024-12-30,1.576
+Iowa,iowa,2025-01-06,1.607
+Iowa,iowa,2025-01-13,1.633
+Iowa,iowa,2025-01-20,1.71
+Iowa,iowa,2025-01-27,1.719
+Iowa,iowa,2025-02-03,1.708
+Iowa,iowa,2025-02-10,1.702
+Iowa,iowa,2025-02-17,1.703
+Iowa,iowa,2025-02-24,1.714
+Iowa,iowa,2025-03-03,1.698
+Iowa,iowa,2025-03-10,1.686
+Iowa,iowa,2025-03-17,1.68
+Iowa,iowa,2025-03-24,1.667
+Iowa,iowa,2025-03-31,1.656
+Iowa,iowa,2025-10-06,1.521
+Iowa,iowa,2025-10-13,1.519
+Iowa,iowa,2025-10-20,1.519
+Iowa,iowa,2025-10-27,1.522
+Iowa,iowa,2025-11-03,1.543
+Iowa,iowa,2025-11-10,1.544
+Iowa,iowa,2025-11-17,1.548
+Iowa,iowa,2025-11-24,1.55
+Iowa,iowa,2025-12-01,1.561
+Iowa,iowa,2025-12-08,1.563
+Iowa,iowa,2025-12-15,1.573
+Iowa,iowa,2025-12-22,1.611
+Iowa,iowa,2025-12-29,1.611
+Iowa,iowa,2026-01-05,1.584
+Iowa,iowa,2026-01-12,1.591
+Iowa,iowa,2026-01-19,1.595
+Iowa,iowa,2026-01-26,1.609
+Iowa,iowa,2026-02-02,1.644
+Iowa,iowa,2026-02-09,1.654
+Iowa,iowa,2026-02-16,1.646
+Iowa,iowa,2026-02-23,1.637
+Iowa,iowa,2026-03-02,1.634
+Iowa,iowa,2026-03-09,1.64
+Iowa,iowa,2026-03-16,1.643
+Iowa,iowa,2026-03-23,1.652
+Iowa,iowa,2026-03-30,1.66
+Iowa,iowa,2026-10-05,1.633
+Iowa,iowa,2026-10-12,1.667
+Iowa,iowa,2026-10-19,1.704
+Kansas,kansas,2024-10-07,1.691
+Kansas,kansas,2024-10-14,1.703
+Kansas,kansas,2024-10-21,1.714
+Kansas,kansas,2024-10-28,1.734
+Kansas,kansas,2024-11-04,1.751
+Kansas,kansas,2024-11-11,1.748
+Kansas,kansas,2024-11-18,1.78
+Kansas,kansas,2024-11-25,1.79
+Kansas,kansas,2024-12-02,1.792
+Kansas,kansas,2024-12-09,1.79
+Kansas,kansas,2024-12-16,1.799
+Kansas,kansas,2024-12-23,1.8
+Kansas,kansas,2024-12-30,1.803
+Kansas,kansas,2025-01-06,1.845
+Kansas,kansas,2025-01-13,1.865
+Kansas,kansas,2025-01-20,1.965
+Kansas,kansas,2025-01-27,1.966
+Kansas,kansas,2025-02-03,1.959
+Kansas,kansas,2025-02-10,1.976
+Kansas,kansas,2025-02-17,1.998
+Kansas,kansas,2025-02-24,1.999
+Kansas,kansas,2025-03-03,1.987
+Kansas,kansas,2025-03-10,1.984
+Kansas,kansas,2025-03-17,1.984
+Kansas,kansas,2025-03-24,1.984
+Kansas,kansas,2025-03-31,1.953
+Kansas,kansas,2025-10-06,1.775
+Kansas,kansas,2025-10-13,1.774
+Kansas,kansas,2025-10-20,1.772
+Kansas,kansas,2025-10-27,1.78
+Kansas,kansas,2025-11-03,1.824
+Kansas,kansas,2025-11-10,1.829
+Kansas,kansas,2025-11-17,1.847
+Kansas,kansas,2025-11-24,1.856
+Kansas,kansas,2025-12-01,1.867
+Kansas,kansas,2025-12-08,1.9
+Kansas,kansas,2025-12-15,1.912
+Kansas,kansas,2025-12-22,1.922
+Kansas,kansas,2025-12-29,1.917
+Kansas,kansas,2026-01-05,1.923
+Kansas,kansas,2026-01-12,1.936
+Kansas,kansas,2026-01-19,1.936
+Kansas,kansas,2026-01-26,1.995
+Kansas,kansas,2026-02-02,1.949
+Kansas,kansas,2026-02-09,1.95
+Kansas,kansas,2026-02-16,1.95
+Kansas,kansas,2026-02-23,1.95
+Kansas,kansas,2026-03-02,1.95
+Kansas,kansas,2026-03-09,1.957
+Kansas,kansas,2026-03-16,1.956
+Kansas,kansas,2026-03-23,1.971
+Kansas,kansas,2026-03-30,1.977
+Kansas,kansas,2026-10-05,2.011
+Kansas,kansas,2026-10-12,2.023
+Kansas,kansas,2026-10-19,2.074
+Minnesota,minnesota,2024-10-07,1.775
+Minnesota,minnesota,2024-10-14,1.783
+Minnesota,minnesota,2024-10-21,1.782
+Minnesota,minnesota,2024-10-28,1.79
+Minnesota,minnesota,2024-11-04,1.798
+Minnesota,minnesota,2024-11-11,1.816
+Minnesota,minnesota,2024-11-18,1.819
+Minnesota,minnesota,2024-11-25,1.836
+Minnesota,minnesota,2024-12-02,1.878
+Minnesota,minnesota,2024-12-09,1.882
+Minnesota,minnesota,2024-12-16,1.894
+Minnesota,minnesota,2024-12-23,1.898
+Minnesota,minnesota,2024-12-30,1.9
+Minnesota,minnesota,2025-01-06,1.947
+Minnesota,minnesota,2025-01-13,1.991
+Minnesota,minnesota,2025-01-20,2.142
+Minnesota,minnesota,2025-01-27,2.143
+Minnesota,minnesota,2025-02-03,2.167
+Minnesota,minnesota,2025-02-10,2.13
+Minnesota,minnesota,2025-02-17,2.149
+Minnesota,minnesota,2025-02-24,2.157
+Minnesota,minnesota,2025-03-03,2.15
+Minnesota,minnesota,2025-03-10,2.138
+Minnesota,minnesota,2025-03-17,2.115
+Minnesota,minnesota,2025-03-24,2.098
+Minnesota,minnesota,2025-03-31,2.08
+Minnesota,minnesota,2025-10-06,1.777
+Minnesota,minnesota,2025-10-13,1.806
+Minnesota,minnesota,2025-10-20,1.801
+Minnesota,minnesota,2025-10-27,1.82
+Minnesota,minnesota,2025-11-03,1.827
+Minnesota,minnesota,2025-11-10,1.849
+Minnesota,minnesota,2025-11-17,1.852
+Minnesota,minnesota,2025-11-24,1.86
+Minnesota,minnesota,2025-12-01,1.873
+Minnesota,minnesota,2025-12-08,1.926
+Minnesota,minnesota,2025-12-15,1.939
+Minnesota,minnesota,2025-12-22,1.928
+Minnesota,minnesota,2025-12-29,1.926
+Minnesota,minnesota,2026-01-05,1.964
+Minnesota,minnesota,2026-01-12,1.981
+Minnesota,minnesota,2026-01-19,1.988
+Minnesota,minnesota,2026-01-26,2.004
+Minnesota,minnesota,2026-02-02,2.067
+Minnesota,minnesota,2026-02-09,2.062
+Minnesota,minnesota,2026-02-16,2.057
+Minnesota,minnesota,2026-02-23,2.051
+Minnesota,minnesota,2026-03-02,2.05
+Minnesota,minnesota,2026-03-09,2.055
+Minnesota,minnesota,2026-03-16,2.1
+Minnesota,minnesota,2026-03-23,2.107
+Minnesota,minnesota,2026-03-30,2.056
+Minnesota,minnesota,2026-10-05,1.901
+Minnesota,minnesota,2026-10-12,1.964
+Minnesota,minnesota,2026-10-19,2.014
+Missouri,missouri,2024-10-07,1.936
+Missouri,missouri,2024-10-14,1.947
+Missouri,missouri,2024-10-21,1.959
+Missouri,missouri,2024-10-28,1.952
+Missouri,missouri,2024-11-04,1.969
+Missouri,missouri,2024-11-11,1.97
+Missouri,missouri,2024-11-18,1.988
+Missouri,missouri,2024-11-25,2.007
+Missouri,missouri,2024-12-02,2.008
+Missouri,missouri,2024-12-09,2.028
+Missouri,missouri,2024-12-16,2.039
+Missouri,missouri,2024-12-23,2.05
+Missouri,missouri,2024-12-30,2.051
+Missouri,missouri,2025-01-06,2.117
+Missouri,missouri,2025-01-13,2.193
+Missouri,missouri,2025-01-20,2.261
+Missouri,missouri,2025-01-27,2.28
+Missouri,missouri,2025-02-03,2.266
+Missouri,missouri,2025-02-10,2.267
+Missouri,missouri,2025-02-17,2.287
+Missouri,missouri,2025-02-24,2.294
+Missouri,missouri,2025-03-03,2.291
+Missouri,missouri,2025-03-10,2.28
+Missouri,missouri,2025-03-17,2.251
+Missouri,missouri,2025-03-24,2.229
+Missouri,missouri,2025-03-31,2.22
+Missouri,missouri,2025-10-06,1.944
+Missouri,missouri,2025-10-13,1.944
+Missouri,missouri,2025-10-20,1.943
+Missouri,missouri,2025-10-27,1.941
+Missouri,missouri,2025-11-03,1.965
+Missouri,missouri,2025-11-10,1.966
+Missouri,missouri,2025-11-17,2
+Missouri,missouri,2025-11-24,2.002
+Missouri,missouri,2025-12-01,1.986
+Missouri,missouri,2025-12-08,2.024
+Missouri,missouri,2025-12-15,2.06
+Missouri,missouri,2025-12-22,2.115
+Missouri,missouri,2025-12-29,2.149
+Missouri,missouri,2026-01-05,2.088
+Missouri,missouri,2026-01-12,2.093
+Missouri,missouri,2026-01-19,2.093
+Missouri,missouri,2026-01-26,2.119
+Missouri,missouri,2026-02-02,2.257
+Missouri,missouri,2026-02-09,2.269
+Missouri,missouri,2026-02-16,2.259
+Missouri,missouri,2026-02-23,2.242
+Missouri,missouri,2026-03-02,2.204
+Missouri,missouri,2026-03-09,2.206
+Missouri,missouri,2026-03-16,2.204
+Missouri,missouri,2026-03-23,2.237
+Missouri,missouri,2026-03-30,2.209
+Missouri,missouri,2026-10-05,2.061
+Missouri,missouri,2026-10-12,2.129
+Missouri,missouri,2026-10-19,2.181
+Nebraska,nebraska,2024-10-07,1.577
+Nebraska,nebraska,2024-10-14,1.58
+Nebraska,nebraska,2024-10-21,1.579
+Nebraska,nebraska,2024-10-28,1.585
+Nebraska,nebraska,2024-11-04,1.581
+Nebraska,nebraska,2024-11-11,1.582
+Nebraska,nebraska,2024-11-18,1.572
+Nebraska,nebraska,2024-11-25,1.572
+Nebraska,nebraska,2024-12-02,1.595
+Nebraska,nebraska,2024-12-09,1.598
+Nebraska,nebraska,2024-12-16,1.593
+Nebraska,nebraska,2024-12-23,1.603
+Nebraska,nebraska,2024-12-30,1.592
+Nebraska,nebraska,2025-01-06,1.635
+Nebraska,nebraska,2025-01-13,1.678
+Nebraska,nebraska,2025-01-20,1.763
+Nebraska,nebraska,2025-01-27,1.766
+Nebraska,nebraska,2025-02-03,1.762
+Nebraska,nebraska,2025-02-10,1.759
+Nebraska,nebraska,2025-02-17,1.736
+Nebraska,nebraska,2025-02-24,1.75
+Nebraska,nebraska,2025-03-03,1.75
+Nebraska,nebraska,2025-03-10,1.749
+Nebraska,nebraska,2025-03-17,1.744
+Nebraska,nebraska,2025-03-24,1.73
+Nebraska,nebraska,2025-03-31,1.735
+Nebraska,nebraska,2025-10-06,1.568
+Nebraska,nebraska,2025-10-13,1.584
+Nebraska,nebraska,2025-10-20,1.591
+Nebraska,nebraska,2025-10-27,1.583
+Nebraska,nebraska,2025-11-03,1.592
+Nebraska,nebraska,2025-11-10,1.586
+Nebraska,nebraska,2025-11-17,1.594
+Nebraska,nebraska,2025-11-24,1.575
+Nebraska,nebraska,2025-12-01,1.592
+Nebraska,nebraska,2025-12-08,1.597
+Nebraska,nebraska,2025-12-15,1.607
+Nebraska,nebraska,2025-12-22,1.608
+Nebraska,nebraska,2025-12-29,1.602
+Nebraska,nebraska,2026-01-05,1.599
+Nebraska,nebraska,2026-01-12,1.615
+Nebraska,nebraska,2026-01-19,1.603
+Nebraska,nebraska,2026-01-26,1.608
+Nebraska,nebraska,2026-02-02,1.63
+Nebraska,nebraska,2026-02-09,1.633
+Nebraska,nebraska,2026-02-16,1.611
+Nebraska,nebraska,2026-02-23,1.611
+Nebraska,nebraska,2026-03-02,1.624
+Nebraska,nebraska,2026-03-09,1.636
+Nebraska,nebraska,2026-03-16,1.638
+Nebraska,nebraska,2026-03-23,1.623
+Nebraska,nebraska,2026-03-30,1.642
+Nebraska,nebraska,2026-10-05,1.693
+Nebraska,nebraska,2026-10-12,1.718
+Nebraska,nebraska,2026-10-19,1.783
+North Dakota,north-dakota,2024-10-07,1.483
+North Dakota,north-dakota,2024-10-14,1.504
+North Dakota,north-dakota,2024-10-21,1.504
+North Dakota,north-dakota,2024-10-28,1.512
+North Dakota,north-dakota,2024-11-04,1.52
+North Dakota,north-dakota,2024-11-11,1.524
+North Dakota,north-dakota,2024-11-18,1.551
+North Dakota,north-dakota,2024-11-25,1.581
+North Dakota,north-dakota,2024-12-02,1.627
+North Dakota,north-dakota,2024-12-09,1.626
+North Dakota,north-dakota,2024-12-16,1.634
+North Dakota,north-dakota,2024-12-23,1.634
+North Dakota,north-dakota,2024-12-30,1.634
+North Dakota,north-dakota,2025-01-06,1.71
+North Dakota,north-dakota,2025-01-13,1.726
+North Dakota,north-dakota,2025-01-20,1.822
+North Dakota,north-dakota,2025-01-27,1.881
+North Dakota,north-dakota,2025-02-03,1.889
+North Dakota,north-dakota,2025-02-10,1.894
+North Dakota,north-dakota,2025-02-17,1.911
+North Dakota,north-dakota,2025-02-24,1.911
+North Dakota,north-dakota,2025-03-03,1.909
+North Dakota,north-dakota,2025-03-10,1.898
+North Dakota,north-dakota,2025-03-17,1.892
+North Dakota,north-dakota,2025-03-24,1.89
+North Dakota,north-dakota,2025-03-31,1.884
+North Dakota,north-dakota,2025-10-06,1.435
+North Dakota,north-dakota,2025-10-13,1.508
+North Dakota,north-dakota,2025-10-20,1.508
+North Dakota,north-dakota,2025-10-27,1.544
+North Dakota,north-dakota,2025-11-03,1.56
+North Dakota,north-dakota,2025-11-10,1.565
+North Dakota,north-dakota,2025-11-17,1.569
+North Dakota,north-dakota,2025-11-24,1.59
+North Dakota,north-dakota,2025-12-01,1.596
+North Dakota,north-dakota,2025-12-08,1.645
+North Dakota,north-dakota,2025-12-15,1.648
+North Dakota,north-dakota,2025-12-22,1.651
+North Dakota,north-dakota,2025-12-29,1.659
+North Dakota,north-dakota,2026-01-05,1.648
+North Dakota,north-dakota,2026-01-12,1.648
+North Dakota,north-dakota,2026-01-19,1.651
+North Dakota,north-dakota,2026-01-26,1.658
+North Dakota,north-dakota,2026-02-02,1.699
+North Dakota,north-dakota,2026-02-09,1.7
+North Dakota,north-dakota,2026-02-16,1.7
+North Dakota,north-dakota,2026-02-23,1.7
+North Dakota,north-dakota,2026-03-02,1.7
+North Dakota,north-dakota,2026-03-09,1.705
+North Dakota,north-dakota,2026-03-16,1.7
+North Dakota,north-dakota,2026-03-23,1.691
+North Dakota,north-dakota,2026-03-30,1.7
+North Dakota,north-dakota,2026-10-05,1.608
+North Dakota,north-dakota,2026-10-12,1.647
+North Dakota,north-dakota,2026-10-19,1.651
+South Dakota,south-dakota,2024-10-07,1.728
+South Dakota,south-dakota,2024-10-14,1.726
+South Dakota,south-dakota,2024-10-21,1.724
+South Dakota,south-dakota,2024-10-28,1.722
+South Dakota,south-dakota,2024-11-04,1.757
+South Dakota,south-dakota,2024-11-11,1.75
+South Dakota,south-dakota,2024-11-18,1.766
+South Dakota,south-dakota,2024-11-25,1.812
+South Dakota,south-dakota,2024-12-02,1.82
+South Dakota,south-dakota,2024-12-09,1.819
+South Dakota,south-dakota,2024-12-16,1.819
+South Dakota,south-dakota,2024-12-23,1.831
+South Dakota,south-dakota,2024-12-30,1.831
+South Dakota,south-dakota,2025-01-06,1.858
+South Dakota,south-dakota,2025-01-13,1.898
+South Dakota,south-dakota,2025-01-20,1.999
+South Dakota,south-dakota,2025-01-27,1.996
+South Dakota,south-dakota,2025-02-03,1.959
+South Dakota,south-dakota,2025-02-10,1.947
+South Dakota,south-dakota,2025-02-17,1.998
+South Dakota,south-dakota,2025-02-24,2.005
+South Dakota,south-dakota,2025-03-03,2.01
+South Dakota,south-dakota,2025-03-10,1.998
+South Dakota,south-dakota,2025-03-17,1.993
+South Dakota,south-dakota,2025-03-24,1.999
+South Dakota,south-dakota,2025-03-31,1.997
+South Dakota,south-dakota,2025-10-06,1.638
+South Dakota,south-dakota,2025-10-13,1.653
+South Dakota,south-dakota,2025-10-20,1.654
+South Dakota,south-dakota,2025-10-27,1.688
+South Dakota,south-dakota,2025-11-03,1.69
+South Dakota,south-dakota,2025-11-10,1.731
+South Dakota,south-dakota,2025-11-17,1.75
+South Dakota,south-dakota,2025-11-24,1.751
+South Dakota,south-dakota,2025-12-01,1.767
+South Dakota,south-dakota,2025-12-08,1.78
+South Dakota,south-dakota,2025-12-15,1.828
+South Dakota,south-dakota,2025-12-22,1.825
+South Dakota,south-dakota,2025-12-29,1.833
+South Dakota,south-dakota,2026-01-05,1.83
+South Dakota,south-dakota,2026-01-12,1.828
+South Dakota,south-dakota,2026-01-19,1.828
+South Dakota,south-dakota,2026-01-26,1.855
+South Dakota,south-dakota,2026-02-02,1.863
+South Dakota,south-dakota,2026-02-09,1.864
+South Dakota,south-dakota,2026-02-16,1.853
+South Dakota,south-dakota,2026-02-23,1.856
+South Dakota,south-dakota,2026-03-02,1.828
+South Dakota,south-dakota,2026-03-09,1.833
+South Dakota,south-dakota,2026-03-16,1.844
+South Dakota,south-dakota,2026-03-23,1.84
+South Dakota,south-dakota,2026-03-30,1.84
+South Dakota,south-dakota,2026-10-05,1.724
+South Dakota,south-dakota,2026-10-12,1.824
+South Dakota,south-dakota,2026-10-19,1.87
+Delaware,delaware,2024-10-07,3.663
+Delaware,delaware,2024-10-14,3.664
+Delaware,delaware,2024-10-21,3.666
+Delaware,delaware,2024-10-28,3.65
+Delaware,delaware,2024-11-04,3.676
+Delaware,delaware,2024-11-11,3.683
+Delaware,delaware,2024-11-18,3.71
+Delaware,delaware,2024-11-25,3.709
+Delaware,delaware,2024-12-02,3.704
+Delaware,delaware,2024-12-09,3.715
+Delaware,delaware,2024-12-16,3.73
+Delaware,delaware,2024-12-23,3.728
+Delaware,delaware,2024-12-30,3.741
+Delaware,delaware,2025-01-06,3.77
+Delaware,delaware,2025-01-13,3.807
+Delaware,delaware,2025-01-20,3.895
+Delaware,delaware,2025-01-27,3.939
+Delaware,delaware,2025-02-03,3.922
+Delaware,delaware,2025-02-10,3.899
+Delaware,delaware,2025-02-17,3.908
+Delaware,delaware,2025-02-24,3.899
+Delaware,delaware,2025-03-03,3.931
+Delaware,delaware,2025-03-10,3.918
+Delaware,delaware,2025-03-17,3.886
+Delaware,delaware,2025-03-24,3.874
+Delaware,delaware,2025-03-31,3.844
+Delaware,delaware,2025-10-06,3.354
+Delaware,delaware,2025-10-13,3.353
+Delaware,delaware,2025-10-20,3.429
+Delaware,delaware,2025-10-27,3.426
+Delaware,delaware,2025-11-03,3.471
+Delaware,delaware,2025-11-10,3.473
+Delaware,delaware,2025-11-17,3.486
+Delaware,delaware,2025-11-24,3.488
+Delaware,delaware,2025-12-01,3.492
+Delaware,delaware,2025-12-08,3.491
+Delaware,delaware,2025-12-15,3.551
+Delaware,delaware,2025-12-22,3.561
+Delaware,delaware,2025-12-29,3.564
+Delaware,delaware,2026-01-05,3.557
+Delaware,delaware,2026-01-12,3.553
+Delaware,delaware,2026-01-19,3.577
+Delaware,delaware,2026-01-26,3.63
+Delaware,delaware,2026-02-02,3.68
+Delaware,delaware,2026-02-09,3.688
+Delaware,delaware,2026-02-16,3.696
+Delaware,delaware,2026-02-23,3.705
+Delaware,delaware,2026-03-02,3.679
+Delaware,delaware,2026-03-09,3.743
+Delaware,delaware,2026-03-16,3.739
+Delaware,delaware,2026-03-23,3.744
+Delaware,delaware,2026-03-30,3.731
+Delaware,delaware,2026-10-05,3.708
+Delaware,delaware,2026-10-12,3.729
+Delaware,delaware,2026-10-19,3.755
+Florida,florida,2024-10-07,4.542
+Florida,florida,2024-10-14,4.536
+Florida,florida,2024-10-21,4.606
+Florida,florida,2024-10-28,4.608
+Florida,florida,2024-11-04,4.772
+Florida,florida,2024-11-11,4.759
+Florida,florida,2024-11-18,4.745
+Florida,florida,2024-11-25,4.747
+Florida,florida,2024-12-02,4.715
+Florida,florida,2024-12-09,4.688
+Florida,florida,2024-12-16,4.685
+Florida,florida,2024-12-23,4.67
+Florida,florida,2024-12-30,4.67
+Florida,florida,2025-01-06,4.743
+Florida,florida,2025-01-13,4.766
+Florida,florida,2025-01-20,4.794
+Florida,florida,2025-01-27,4.809
+Florida,florida,2025-02-03,4.803
+Florida,florida,2025-02-10,4.813
+Florida,florida,2025-02-17,4.81
+Florida,florida,2025-02-24,4.805
+Florida,florida,2025-03-03,4.737
+Florida,florida,2025-03-10,4.746
+Florida,florida,2025-03-17,4.729
+Florida,florida,2025-03-24,4.717
+Florida,florida,2025-03-31,4.723
+Florida,florida,2025-10-06,4.466
+Florida,florida,2025-10-13,4.556
+Florida,florida,2025-10-20,4.536
+Florida,florida,2025-10-27,4.535
+Florida,florida,2025-11-03,4.662
+Florida,florida,2025-11-10,4.658
+Florida,florida,2025-11-17,4.649
+Florida,florida,2025-11-24,4.645
+Florida,florida,2025-12-01,4.679
+Florida,florida,2025-12-08,4.688
+Florida,florida,2025-12-15,4.69
+Florida,florida,2025-12-22,4.69
+Florida,florida,2025-12-29,4.691
+Florida,florida,2026-01-05,4.67
+Florida,florida,2026-01-12,4.671
+Florida,florida,2026-01-19,4.682
+Florida,florida,2026-01-26,4.686
+Florida,florida,2026-02-02,4.672
+Florida,florida,2026-02-09,4.741
+Florida,florida,2026-02-16,4.763
+Florida,florida,2026-02-23,4.742
+Florida,florida,2026-03-02,4.704
+Florida,florida,2026-03-09,4.731
+Florida,florida,2026-03-16,4.703
+Florida,florida,2026-03-23,4.715
+Florida,florida,2026-03-30,4.706
+Florida,florida,2026-10-05,4.862
+Florida,florida,2026-10-12,4.845
+Florida,florida,2026-10-19,4.928
+Georgia,georgia,2024-10-07,2.948
+Georgia,georgia,2024-10-14,2.966
+Georgia,georgia,2024-10-21,2.981
+Georgia,georgia,2024-10-28,2.976
+Georgia,georgia,2024-11-04,3.002
+Georgia,georgia,2024-11-11,3.015
+Georgia,georgia,2024-11-18,3.013
+Georgia,georgia,2024-11-25,3.018
+Georgia,georgia,2024-12-02,3.058
+Georgia,georgia,2024-12-09,3.048
+Georgia,georgia,2024-12-16,3.059
+Georgia,georgia,2024-12-23,3.061
+Georgia,georgia,2024-12-30,3.084
+Georgia,georgia,2025-01-06,3.107
+Georgia,georgia,2025-01-13,3.138
+Georgia,georgia,2025-01-20,3.278
+Georgia,georgia,2025-01-27,3.288
+Georgia,georgia,2025-02-03,3.298
+Georgia,georgia,2025-02-10,3.304
+Georgia,georgia,2025-02-17,3.303
+Georgia,georgia,2025-02-24,3.3
+Georgia,georgia,2025-03-03,3.294
+Georgia,georgia,2025-03-10,3.277
+Georgia,georgia,2025-03-17,3.268
+Georgia,georgia,2025-03-24,3.216
+Georgia,georgia,2025-03-31,3.215
+Georgia,georgia,2025-10-06,3
+Georgia,georgia,2025-10-13,2.956
+Georgia,georgia,2025-10-20,2.938
+Georgia,georgia,2025-10-27,2.942
+Georgia,georgia,2025-11-03,2.972
+Georgia,georgia,2025-11-10,2.969
+Georgia,georgia,2025-11-17,3.013
+Georgia,georgia,2025-11-24,3.036
+Georgia,georgia,2025-12-01,3.056
+Georgia,georgia,2025-12-08,3.062
+Georgia,georgia,2025-12-15,3.067
+Georgia,georgia,2025-12-22,3.074
+Georgia,georgia,2025-12-29,3.072
+Georgia,georgia,2026-01-05,3.071
+Georgia,georgia,2026-01-12,3.079
+Georgia,georgia,2026-01-19,3.091
+Georgia,georgia,2026-01-26,3.196
+Georgia,georgia,2026-02-02,3.208
+Georgia,georgia,2026-02-09,3.203
+Georgia,georgia,2026-02-16,3.179
+Georgia,georgia,2026-02-23,3.116
+Georgia,georgia,2026-03-02,3.113
+Georgia,georgia,2026-03-09,3.145
+Georgia,georgia,2026-03-16,3.149
+Georgia,georgia,2026-03-23,3.156
+Georgia,georgia,2026-03-30,3.164
+Georgia,georgia,2026-10-05,3.079
+Georgia,georgia,2026-10-12,3.131
+Georgia,georgia,2026-10-19,3.212
+Maryland,maryland,2024-10-07,3.474
+Maryland,maryland,2024-10-14,3.45
+Maryland,maryland,2024-10-21,3.454
+Maryland,maryland,2024-10-28,3.455
+Maryland,maryland,2024-11-04,3.483
+Maryland,maryland,2024-11-11,3.51
+Maryland,maryland,2024-11-18,3.513
+Maryland,maryland,2024-11-25,3.526
+Maryland,maryland,2024-12-02,3.533
+Maryland,maryland,2024-12-09,3.533
+Maryland,maryland,2024-12-16,3.563
+Maryland,maryland,2024-12-23,3.564
+Maryland,maryland,2024-12-30,3.558
+Maryland,maryland,2025-01-06,3.597
+Maryland,maryland,2025-01-13,3.655
+Maryland,maryland,2025-01-20,3.734
+Maryland,maryland,2025-01-27,3.783
+Maryland,maryland,2025-02-03,3.786
+Maryland,maryland,2025-02-10,3.782
+Maryland,maryland,2025-02-17,3.786
+Maryland,maryland,2025-02-24,3.785
+Maryland,maryland,2025-03-03,3.778
+Maryland,maryland,2025-03-10,3.779
+Maryland,maryland,2025-03-17,3.724
+Maryland,maryland,2025-03-24,3.711
+Maryland,maryland,2025-03-31,3.703
+Maryland,maryland,2025-10-06,3.46
+Maryland,maryland,2025-10-13,3.482
+Maryland,maryland,2025-10-20,3.519
+Maryland,maryland,2025-10-27,3.513
+Maryland,maryland,2025-11-03,3.537
+Maryland,maryland,2025-11-10,3.534
+Maryland,maryland,2025-11-17,3.551
+Maryland,maryland,2025-11-24,3.521
+Maryland,maryland,2025-12-01,3.496
+Maryland,maryland,2025-12-08,3.508
+Maryland,maryland,2025-12-15,3.54
+Maryland,maryland,2025-12-22,3.54
+Maryland,maryland,2025-12-29,3.541
+Maryland,maryland,2026-01-05,3.529
+Maryland,maryland,2026-01-12,3.53
+Maryland,maryland,2026-01-19,3.524
+Maryland,maryland,2026-01-26,3.625
+Maryland,maryland,2026-02-02,3.625
+Maryland,maryland,2026-02-09,3.622
+Maryland,maryland,2026-02-16,3.694
+Maryland,maryland,2026-02-23,3.702
+Maryland,maryland,2026-03-02,3.71
+Maryland,maryland,2026-03-09,3.72
+Maryland,maryland,2026-03-16,3.716
+Maryland,maryland,2026-03-23,3.731
+Maryland,maryland,2026-03-30,3.741
+Maryland,maryland,2026-10-05,3.748
+Maryland,maryland,2026-10-12,3.801
+Maryland,maryland,2026-10-19,3.799
+North Carolina,north-carolina,2024-10-07,3.325
+North Carolina,north-carolina,2024-10-14,3.339
+North Carolina,north-carolina,2024-10-21,3.329
+North Carolina,north-carolina,2024-10-28,3.298
+North Carolina,north-carolina,2024-11-04,3.336
+North Carolina,north-carolina,2024-11-11,3.335
+North Carolina,north-carolina,2024-11-18,3.328
+North Carolina,north-carolina,2024-11-25,3.334
+North Carolina,north-carolina,2024-12-02,3.324
+North Carolina,north-carolina,2024-12-09,3.317
+North Carolina,north-carolina,2024-12-16,3.307
+North Carolina,north-carolina,2024-12-23,3.314
+North Carolina,north-carolina,2024-12-30,3.331
+North Carolina,north-carolina,2025-01-06,3.38
+North Carolina,north-carolina,2025-01-13,3.409
+North Carolina,north-carolina,2025-01-20,3.478
+North Carolina,north-carolina,2025-01-27,3.493
+North Carolina,north-carolina,2025-02-03,3.471
+North Carolina,north-carolina,2025-02-10,3.482
+North Carolina,north-carolina,2025-02-17,3.479
+North Carolina,north-carolina,2025-02-24,3.479
+North Carolina,north-carolina,2025-03-03,3.47
+North Carolina,north-carolina,2025-03-10,3.469
+North Carolina,north-carolina,2025-03-17,3.456
+North Carolina,north-carolina,2025-03-24,3.438
+North Carolina,north-carolina,2025-03-31,3.44
+North Carolina,north-carolina,2025-10-06,3.302
+North Carolina,north-carolina,2025-10-13,3.308
+North Carolina,north-carolina,2025-10-20,3.286
+North Carolina,north-carolina,2025-10-27,3.316
+North Carolina,north-carolina,2025-11-03,3.353
+North Carolina,north-carolina,2025-11-10,3.292
+North Carolina,north-carolina,2025-11-17,3.295
+North Carolina,north-carolina,2025-11-24,3.317
+North Carolina,north-carolina,2025-12-01,3.337
+North Carolina,north-carolina,2025-12-08,3.356
+North Carolina,north-carolina,2025-12-15,3.351
+North Carolina,north-carolina,2025-12-22,3.361
+North Carolina,north-carolina,2025-12-29,3.345
+North Carolina,north-carolina,2026-01-05,3.32
+North Carolina,north-carolina,2026-01-12,3.342
+North Carolina,north-carolina,2026-01-19,3.34
+North Carolina,north-carolina,2026-01-26,3.355
+North Carolina,north-carolina,2026-02-02,3.4
+North Carolina,north-carolina,2026-02-09,3.396
+North Carolina,north-carolina,2026-02-16,3.399
+North Carolina,north-carolina,2026-02-23,3.403
+North Carolina,north-carolina,2026-03-02,3.406
+North Carolina,north-carolina,2026-03-09,3.423
+North Carolina,north-carolina,2026-03-16,3.429
+North Carolina,north-carolina,2026-03-23,3.433
+North Carolina,north-carolina,2026-03-30,3.45
+North Carolina,north-carolina,2026-10-05,3.55
+North Carolina,north-carolina,2026-10-12,3.556
+North Carolina,north-carolina,2026-10-19,3.612
+Virginia,virginia,2024-10-07,3.353
+Virginia,virginia,2024-10-14,3.377
+Virginia,virginia,2024-10-21,3.379
+Virginia,virginia,2024-10-28,3.382
+Virginia,virginia,2024-11-04,3.419
+Virginia,virginia,2024-11-11,3.443
+Virginia,virginia,2024-11-18,3.444
+Virginia,virginia,2024-11-25,3.465
+Virginia,virginia,2024-12-02,3.468
+Virginia,virginia,2024-12-09,3.462
+Virginia,virginia,2024-12-16,3.462
+Virginia,virginia,2024-12-23,3.461
+Virginia,virginia,2024-12-30,3.458
+Virginia,virginia,2025-01-06,3.497
+Virginia,virginia,2025-01-13,3.528
+Virginia,virginia,2025-01-20,3.609
+Virginia,virginia,2025-01-27,3.65
+Virginia,virginia,2025-02-03,3.634
+Virginia,virginia,2025-02-10,3.645
+Virginia,virginia,2025-02-17,3.656
+Virginia,virginia,2025-02-24,3.645
+Virginia,virginia,2025-03-03,3.644
+Virginia,virginia,2025-03-10,3.62
+Virginia,virginia,2025-03-17,3.619
+Virginia,virginia,2025-03-24,3.618
+Virginia,virginia,2025-03-31,3.618
+Virginia,virginia,2025-10-06,3.408
+Virginia,virginia,2025-10-13,3.441
+Virginia,virginia,2025-10-20,3.43
+Virginia,virginia,2025-10-27,3.424
+Virginia,virginia,2025-11-03,3.413
+Virginia,virginia,2025-11-10,3.408
+Virginia,virginia,2025-11-17,3.407
+Virginia,virginia,2025-11-24,3.41
+Virginia,virginia,2025-12-01,3.413
+Virginia,virginia,2025-12-08,3.428
+Virginia,virginia,2025-12-15,3.433
+Virginia,virginia,2025-12-22,3.435
+Virginia,virginia,2025-12-29,3.44
+Virginia,virginia,2026-01-05,3.441
+Virginia,virginia,2026-01-12,3.444
+Virginia,virginia,2026-01-19,3.452
+Virginia,virginia,2026-01-26,3.468
+Virginia,virginia,2026-02-02,3.482
+Virginia,virginia,2026-02-09,3.494
+Virginia,virginia,2026-02-16,3.505
+Virginia,virginia,2026-02-23,3.512
+Virginia,virginia,2026-03-02,3.51
+Virginia,virginia,2026-03-09,3.527
+Virginia,virginia,2026-03-16,3.541
+Virginia,virginia,2026-03-23,3.553
+Virginia,virginia,2026-03-30,3.565
+Virginia,virginia,2026-10-05,3.677
+Virginia,virginia,2026-10-12,3.661
+Virginia,virginia,2026-10-19,3.76
+Alabama,alabama,2024-10-07,3.188
+Alabama,alabama,2024-10-14,3.199
+Alabama,alabama,2024-10-21,3.221
+Alabama,alabama,2024-10-28,3.224
+Alabama,alabama,2024-11-04,3.272
+Alabama,alabama,2024-11-11,3.293
+Alabama,alabama,2024-11-18,3.302
+Alabama,alabama,2024-11-25,3.327
+Alabama,alabama,2024-12-02,3.337
+Alabama,alabama,2024-12-09,3.345
+Alabama,alabama,2024-12-16,3.367
+Alabama,alabama,2024-12-23,3.413
+Alabama,alabama,2024-12-30,3.38
+Alabama,alabama,2025-01-06,3.455
+Alabama,alabama,2025-01-13,3.477
+Alabama,alabama,2025-01-20,3.524
+Alabama,alabama,2025-01-27,3.55
+Alabama,alabama,2025-02-03,3.559
+Alabama,alabama,2025-02-10,3.552
+Alabama,alabama,2025-02-17,3.559
+Alabama,alabama,2025-02-24,3.56
+Alabama,alabama,2025-03-03,3.55
+Alabama,alabama,2025-03-10,3.547
+Alabama,alabama,2025-03-17,3.544
+Alabama,alabama,2025-03-24,3.543
+Alabama,alabama,2025-03-31,3.546
+Alabama,alabama,2025-10-06,3.423
+Alabama,alabama,2025-10-13,3.439
+Alabama,alabama,2025-10-20,3.436
+Alabama,alabama,2025-10-27,3.44
+Alabama,alabama,2025-11-03,3.445
+Alabama,alabama,2025-11-10,3.446
+Alabama,alabama,2025-11-17,3.444
+Alabama,alabama,2025-11-24,3.445
+Alabama,alabama,2025-12-01,3.438
+Alabama,alabama,2025-12-08,3.441
+Alabama,alabama,2025-12-15,3.445
+Alabama,alabama,2025-12-22,3.447
+Alabama,alabama,2025-12-29,3.45
+Alabama,alabama,2026-01-05,3.454
+Alabama,alabama,2026-01-12,3.453
+Alabama,alabama,2026-01-19,3.458
+Alabama,alabama,2026-01-26,3.463
+Alabama,alabama,2026-02-02,3.484
+Alabama,alabama,2026-02-09,3.487
+Alabama,alabama,2026-02-16,3.491
+Alabama,alabama,2026-02-23,3.487
+Alabama,alabama,2026-03-02,3.478
+Alabama,alabama,2026-03-09,3.493
+Alabama,alabama,2026-03-16,3.504
+Alabama,alabama,2026-03-23,3.509
+Alabama,alabama,2026-03-30,3.516
+Alabama,alabama,2026-10-05,3.521
+Alabama,alabama,2026-10-12,3.535
+Alabama,alabama,2026-10-19,3.573
+Kentucky,kentucky,2024-10-07,2.448
+Kentucky,kentucky,2024-10-14,2.492
+Kentucky,kentucky,2024-10-21,2.506
+Kentucky,kentucky,2024-10-28,2.513
+Kentucky,kentucky,2024-11-04,2.529
+Kentucky,kentucky,2024-11-11,2.532
+Kentucky,kentucky,2024-11-18,2.551
+Kentucky,kentucky,2024-11-25,2.556
+Kentucky,kentucky,2024-12-02,2.566
+Kentucky,kentucky,2024-12-09,2.604
+Kentucky,kentucky,2024-12-16,2.604
+Kentucky,kentucky,2024-12-23,2.612
+Kentucky,kentucky,2024-12-30,2.637
+Kentucky,kentucky,2025-01-06,2.68
+Kentucky,kentucky,2025-01-13,2.731
+Kentucky,kentucky,2025-01-20,2.84
+Kentucky,kentucky,2025-01-27,2.852
+Kentucky,kentucky,2025-02-03,2.852
+Kentucky,kentucky,2025-02-10,2.857
+Kentucky,kentucky,2025-02-17,2.856
+Kentucky,kentucky,2025-02-24,2.857
+Kentucky,kentucky,2025-03-03,2.857
+Kentucky,kentucky,2025-03-10,2.845
+Kentucky,kentucky,2025-03-17,2.849
+Kentucky,kentucky,2025-03-24,2.831
+Kentucky,kentucky,2025-03-31,2.825
+Kentucky,kentucky,2025-10-06,2.447
+Kentucky,kentucky,2025-10-13,2.462
+Kentucky,kentucky,2025-10-20,2.46
+Kentucky,kentucky,2025-10-27,2.456
+Kentucky,kentucky,2025-11-03,2.474
+Kentucky,kentucky,2025-11-10,2.528
+Kentucky,kentucky,2025-11-17,2.537
+Kentucky,kentucky,2025-11-24,2.536
+Kentucky,kentucky,2025-12-01,2.538
+Kentucky,kentucky,2025-12-08,2.567
+Kentucky,kentucky,2025-12-15,2.566
+Kentucky,kentucky,2025-12-22,2.574
+Kentucky,kentucky,2025-12-29,2.587
+Kentucky,kentucky,2026-01-05,2.646
+Kentucky,kentucky,2026-01-12,2.679
+Kentucky,kentucky,2026-01-19,2.675
+Kentucky,kentucky,2026-01-26,2.738
+Kentucky,kentucky,2026-02-02,2.781
+Kentucky,kentucky,2026-02-09,2.839
+Kentucky,kentucky,2026-02-16,2.847
+Kentucky,kentucky,2026-02-23,2.853
+Kentucky,kentucky,2026-03-02,2.86
+Kentucky,kentucky,2026-03-09,3.063
+Kentucky,kentucky,2026-03-16,2.902
+Kentucky,kentucky,2026-03-23,2.911
+Kentucky,kentucky,2026-03-30,2.936
+Kentucky,kentucky,2026-10-05,2.701
+Kentucky,kentucky,2026-10-12,2.79
+Kentucky,kentucky,2026-10-19,2.844
+Mississippi,mississippi,2024-10-07,2.899
+Mississippi,mississippi,2024-10-14,2.903
+Mississippi,mississippi,2024-10-21,2.893
+Mississippi,mississippi,2024-10-28,2.898
+Mississippi,mississippi,2024-11-04,2.904
+Mississippi,mississippi,2024-11-11,2.919
+Mississippi,mississippi,2024-11-18,2.92
+Mississippi,mississippi,2024-11-25,2.921
+Mississippi,mississippi,2024-12-02,2.946
+Mississippi,mississippi,2024-12-09,2.95
+Mississippi,mississippi,2024-12-16,2.95
+Mississippi,mississippi,2024-12-23,2.955
+Mississippi,mississippi,2024-12-30,2.956
+Mississippi,mississippi,2025-01-06,3.016
+Mississippi,mississippi,2025-01-13,3.034
+Mississippi,mississippi,2025-01-20,3.098
+Mississippi,mississippi,2025-01-27,3.114
+Mississippi,mississippi,2025-02-03,3.114
+Mississippi,mississippi,2025-02-10,3.123
+Mississippi,mississippi,2025-02-17,3.125
+Mississippi,mississippi,2025-02-24,3.121
+Mississippi,mississippi,2025-03-03,3.119
+Mississippi,mississippi,2025-03-10,3.106
+Mississippi,mississippi,2025-03-17,3.113
+Mississippi,mississippi,2025-03-24,3.116
+Mississippi,mississippi,2025-03-31,3.111
+Mississippi,mississippi,2025-10-06,2.951
+Mississippi,mississippi,2025-10-13,2.972
+Mississippi,mississippi,2025-10-20,2.974
+Mississippi,mississippi,2025-10-27,2.976
+Mississippi,mississippi,2025-11-03,2.984
+Mississippi,mississippi,2025-11-10,2.993
+Mississippi,mississippi,2025-11-17,2.995
+Mississippi,mississippi,2025-11-24,2.995
+Mississippi,mississippi,2025-12-01,2.989
+Mississippi,mississippi,2025-12-08,3.008
+Mississippi,mississippi,2025-12-15,3.013
+Mississippi,mississippi,2025-12-22,3.014
+Mississippi,mississippi,2025-12-29,3.022
+Mississippi,mississippi,2026-01-05,3.023
+Mississippi,mississippi,2026-01-12,3.029
+Mississippi,mississippi,2026-01-19,3.04
+Mississippi,mississippi,2026-01-26,3.043
+Mississippi,mississippi,2026-02-02,3.056
+Mississippi,mississippi,2026-02-09,3.057
+Mississippi,mississippi,2026-02-16,3.062
+Mississippi,mississippi,2026-02-23,3.052
+Mississippi,mississippi,2026-03-02,3.052
+Mississippi,mississippi,2026-03-09,3.053
+Mississippi,mississippi,2026-03-16,3.052
+Mississippi,mississippi,2026-03-23,3.051
+Mississippi,mississippi,2026-03-30,3.052
+Mississippi,mississippi,2026-10-05,3.047
+Mississippi,mississippi,2026-10-12,3.064
+Mississippi,mississippi,2026-10-19,3.137
+Tennessee,tennessee,2024-10-07,2.997
+Tennessee,tennessee,2024-10-14,3.041
+Tennessee,tennessee,2024-10-21,3.063
+Tennessee,tennessee,2024-10-28,3.086
+Tennessee,tennessee,2024-11-04,3.115
+Tennessee,tennessee,2024-11-11,3.141
+Tennessee,tennessee,2024-11-18,3.144
+Tennessee,tennessee,2024-11-25,3.153
+Tennessee,tennessee,2024-12-02,3.172
+Tennessee,tennessee,2024-12-09,3.171
+Tennessee,tennessee,2024-12-16,3.168
+Tennessee,tennessee,2024-12-23,3.17
+Tennessee,tennessee,2024-12-30,3.175
+Tennessee,tennessee,2025-01-06,3.245
+Tennessee,tennessee,2025-01-13,3.281
+Tennessee,tennessee,2025-01-20,3.308
+Tennessee,tennessee,2025-01-27,3.31
+Tennessee,tennessee,2025-02-03,3.328
+Tennessee,tennessee,2025-02-10,3.33
+Tennessee,tennessee,2025-02-17,3.336
+Tennessee,tennessee,2025-02-24,3.337
+Tennessee,tennessee,2025-03-03,3.319
+Tennessee,tennessee,2025-03-10,3.281
+Tennessee,tennessee,2025-03-17,3.257
+Tennessee,tennessee,2025-03-24,3.267
+Tennessee,tennessee,2025-03-31,3.273
+Tennessee,tennessee,2025-10-06,2.978
+Tennessee,tennessee,2025-10-13,3.032
+Tennessee,tennessee,2025-10-20,3.035
+Tennessee,tennessee,2025-10-27,3.048
+Tennessee,tennessee,2025-11-03,3.053
+Tennessee,tennessee,2025-11-10,3.053
+Tennessee,tennessee,2025-11-17,3.06
+Tennessee,tennessee,2025-11-24,3.072
+Tennessee,tennessee,2025-12-01,3.084
+Tennessee,tennessee,2025-12-08,3.11
+Tennessee,tennessee,2025-12-15,3.112
+Tennessee,tennessee,2025-12-22,3.113
+Tennessee,tennessee,2025-12-29,3.119
+Tennessee,tennessee,2026-01-05,3.173
+Tennessee,tennessee,2026-01-12,3.192
+Tennessee,tennessee,2026-01-19,3.193
+Tennessee,tennessee,2026-01-26,3.203
+Tennessee,tennessee,2026-02-02,3.223
+Tennessee,tennessee,2026-02-09,3.231
+Tennessee,tennessee,2026-02-16,3.234
+Tennessee,tennessee,2026-02-23,3.233
+Tennessee,tennessee,2026-03-02,3.232
+Tennessee,tennessee,2026-03-09,3.242
+Tennessee,tennessee,2026-03-16,3.24
+Tennessee,tennessee,2026-03-23,3.249
+Tennessee,tennessee,2026-03-30,3.248
+Tennessee,tennessee,2026-10-05,3.193
+Tennessee,tennessee,2026-10-12,3.224
+Tennessee,tennessee,2026-10-19,3.219
+Arkansas,arkansas,2024-10-07,2.106
+Arkansas,arkansas,2024-10-14,2.097
+Arkansas,arkansas,2024-10-21,2.183
+Arkansas,arkansas,2024-10-28,2.187
+Arkansas,arkansas,2024-11-04,2.228
+Arkansas,arkansas,2024-11-11,2.27
+Arkansas,arkansas,2024-11-18,2.298
+Arkansas,arkansas,2024-11-25,2.327
+Arkansas,arkansas,2024-12-02,2.367
+Arkansas,arkansas,2024-12-09,2.374
+Arkansas,arkansas,2024-12-16,2.384
+Arkansas,arkansas,2024-12-23,2.388
+Arkansas,arkansas,2024-12-30,2.393
+Arkansas,arkansas,2025-01-06,2.509
+Arkansas,arkansas,2025-01-13,2.591
+Arkansas,arkansas,2025-01-20,2.647
+Arkansas,arkansas,2025-01-27,2.668
+Arkansas,arkansas,2025-02-03,2.666
+Arkansas,arkansas,2025-02-10,2.667
+Arkansas,arkansas,2025-02-17,2.676
+Arkansas,arkansas,2025-02-24,2.675
+Arkansas,arkansas,2025-03-03,2.658
+Arkansas,arkansas,2025-03-10,2.659
+Arkansas,arkansas,2025-03-17,2.506
+Arkansas,arkansas,2025-03-24,2.487
+Arkansas,arkansas,2025-03-31,2.471
+Arkansas,arkansas,2025-10-06,2.19
+Arkansas,arkansas,2025-10-13,2.192
+Arkansas,arkansas,2025-10-20,2.189
+Arkansas,arkansas,2025-10-27,2.206
+Arkansas,arkansas,2025-11-03,2.252
+Arkansas,arkansas,2025-11-10,2.26
+Arkansas,arkansas,2025-11-17,2.255
+Arkansas,arkansas,2025-11-24,2.267
+Arkansas,arkansas,2025-12-01,2.262
+Arkansas,arkansas,2025-12-08,2.332
+Arkansas,arkansas,2025-12-15,2.346
+Arkansas,arkansas,2025-12-22,2.345
+Arkansas,arkansas,2025-12-29,2.341
+Arkansas,arkansas,2026-01-05,2.366
+Arkansas,arkansas,2026-01-12,2.363
+Arkansas,arkansas,2026-01-19,2.343
+Arkansas,arkansas,2026-01-26,2.442
+Arkansas,arkansas,2026-02-02,2.497
+Arkansas,arkansas,2026-02-09,2.514
+Arkansas,arkansas,2026-02-16,2.471
+Arkansas,arkansas,2026-02-23,2.445
+Arkansas,arkansas,2026-03-02,2.441
+Arkansas,arkansas,2026-03-09,2.401
+Arkansas,arkansas,2026-03-16,2.403
+Arkansas,arkansas,2026-03-23,2.409
+Arkansas,arkansas,2026-03-30,2.367
+Arkansas,arkansas,2026-10-05,2.297
+Arkansas,arkansas,2026-10-12,2.379
+Arkansas,arkansas,2026-10-19,2.596
+Oklahoma,oklahoma,2024-10-07,2.127
+Oklahoma,oklahoma,2024-10-14,2.179
+Oklahoma,oklahoma,2024-10-21,2.151
+Oklahoma,oklahoma,2024-10-28,2.156
+Oklahoma,oklahoma,2024-11-04,2.156
+Oklahoma,oklahoma,2024-11-11,2.165
+Oklahoma,oklahoma,2024-11-18,2.177
+Oklahoma,oklahoma,2024-11-25,2.179
+Oklahoma,oklahoma,2024-12-02,2.185
+Oklahoma,oklahoma,2024-12-09,2.187
+Oklahoma,oklahoma,2024-12-16,2.211
+Oklahoma,oklahoma,2024-12-23,2.212
+Oklahoma,oklahoma,2024-12-30,2.218
+Oklahoma,oklahoma,2025-01-06,2.294
+Oklahoma,oklahoma,2025-01-13,2.341
+Oklahoma,oklahoma,2025-01-20,2.403
+Oklahoma,oklahoma,2025-01-27,2.408
+Oklahoma,oklahoma,2025-02-03,2.435
+Oklahoma,oklahoma,2025-02-10,2.404
+Oklahoma,oklahoma,2025-02-17,2.405
+Oklahoma,oklahoma,2025-02-24,2.413
+Oklahoma,oklahoma,2025-03-03,2.417
+Oklahoma,oklahoma,2025-03-10,2.401
+Oklahoma,oklahoma,2025-03-17,2.393
+Oklahoma,oklahoma,2025-03-24,2.388
+Oklahoma,oklahoma,2025-03-31,2.388
+Oklahoma,oklahoma,2025-10-06,2.187
+Oklahoma,oklahoma,2025-10-13,2.199
+Oklahoma,oklahoma,2025-10-20,2.191
+Oklahoma,oklahoma,2025-10-27,2.169
+Oklahoma,oklahoma,2025-11-03,2.18
+Oklahoma,oklahoma,2025-11-10,2.149
+Oklahoma,oklahoma,2025-11-17,2.179
+Oklahoma,oklahoma,2025-11-24,2.15
+Oklahoma,oklahoma,2025-12-01,2.151
+Oklahoma,oklahoma,2025-12-08,2.168
+Oklahoma,oklahoma,2025-12-15,2.174
+Oklahoma,oklahoma,2025-12-22,2.218
+Oklahoma,oklahoma,2025-12-29,2.224
+Oklahoma,oklahoma,2026-01-05,2.255
+Oklahoma,oklahoma,2026-01-12,2.246
+Oklahoma,oklahoma,2026-01-19,2.248
+Oklahoma,oklahoma,2026-01-26,2.271
+Oklahoma,oklahoma,2026-02-02,2.289
+Oklahoma,oklahoma,2026-02-09,2.298
+Oklahoma,oklahoma,2026-02-16,2.28
+Oklahoma,oklahoma,2026-02-23,2.272
+Oklahoma,oklahoma,2026-03-02,2.251
+Oklahoma,oklahoma,2026-03-09,2.27
+Oklahoma,oklahoma,2026-03-16,2.272
+Oklahoma,oklahoma,2026-03-23,2.272
+Oklahoma,oklahoma,2026-03-30,2.272
+Oklahoma,oklahoma,2026-10-05,2.294
+Oklahoma,oklahoma,2026-10-12,2.325
+Oklahoma,oklahoma,2026-10-19,2.352
+Texas,texas,2024-10-07,2.87
+Texas,texas,2024-10-14,2.871
+Texas,texas,2024-10-21,2.868
+Texas,texas,2024-10-28,2.868
+Texas,texas,2024-11-04,2.881
+Texas,texas,2024-11-11,2.886
+Texas,texas,2024-11-18,2.889
+Texas,texas,2024-11-25,2.894
+Texas,texas,2024-12-02,2.891
+Texas,texas,2024-12-09,2.897
+Texas,texas,2024-12-16,2.91
+Texas,texas,2024-12-23,2.906
+Texas,texas,2024-12-30,2.911
+Texas,texas,2025-01-06,2.924
+Texas,texas,2025-01-13,2.953
+Texas,texas,2025-01-20,2.995
+Texas,texas,2025-01-27,3.028
+Texas,texas,2025-02-03,3.013
+Texas,texas,2025-02-10,3.014
+Texas,texas,2025-02-17,3.015
+Texas,texas,2025-02-24,3.018
+Texas,texas,2025-03-03,3.014
+Texas,texas,2025-03-10,3.008
+Texas,texas,2025-03-17,3.003
+Texas,texas,2025-03-24,2.991
+Texas,texas,2025-03-31,2.991
+Texas,texas,2025-10-06,2.924
+Texas,texas,2025-10-13,2.925
+Texas,texas,2025-10-20,2.928
+Texas,texas,2025-10-27,2.936
+Texas,texas,2025-11-03,2.929
+Texas,texas,2025-11-10,2.935
+Texas,texas,2025-11-17,2.928
+Texas,texas,2025-11-24,2.935
+Texas,texas,2025-12-01,2.943
+Texas,texas,2025-12-08,2.954
+Texas,texas,2025-12-15,2.944
+Texas,texas,2025-12-22,2.945
+Texas,texas,2025-12-29,2.946
+Texas,texas,2026-01-05,2.94
+Texas,texas,2026-01-12,2.93
+Texas,texas,2026-01-19,2.935
+Texas,texas,2026-01-26,2.941
+Texas,texas,2026-02-02,2.95
+Texas,texas,2026-02-09,2.914
+Texas,texas,2026-02-16,2.915
+Texas,texas,2026-02-23,2.913
+Texas,texas,2026-03-02,2.945
+Texas,texas,2026-03-09,2.937
+Texas,texas,2026-03-16,2.964
+Texas,texas,2026-03-23,2.971
+Texas,texas,2026-03-30,2.989
+Texas,texas,2026-10-05,3.101
+Texas,texas,2026-10-12,3.1
+Texas,texas,2026-10-19,3.137
+Colorado,colorado,2024-10-07,2.045
+Colorado,colorado,2024-10-14,2.065
+Colorado,colorado,2024-10-21,2.088
+Colorado,colorado,2024-10-28,2.098
+Colorado,colorado,2024-11-04,2.127
+Colorado,colorado,2024-11-11,2.131
+Colorado,colorado,2024-11-18,2.133
+Colorado,colorado,2024-11-25,2.15
+Colorado,colorado,2024-12-02,2.204
+Colorado,colorado,2024-12-09,2.219
+Colorado,colorado,2024-12-16,2.214
+Colorado,colorado,2024-12-23,2.221
+Colorado,colorado,2024-12-30,2.222
+Colorado,colorado,2025-01-06,2.267
+Colorado,colorado,2025-01-13,2.293
+Colorado,colorado,2025-01-20,2.359
+Colorado,colorado,2025-01-27,2.384
+Colorado,colorado,2025-02-03,2.388
+Colorado,colorado,2025-02-10,2.394
+Colorado,colorado,2025-02-17,2.399
+Colorado,colorado,2025-02-24,2.393
+Colorado,colorado,2025-03-03,2.399
+Colorado,colorado,2025-03-10,2.379
+Colorado,colorado,2025-03-17,2.369
+Colorado,colorado,2025-03-24,2.372
+Colorado,colorado,2025-03-31,2.37
+Colorado,colorado,2025-10-06,2.078
+Colorado,colorado,2025-10-13,2.095
+Colorado,colorado,2025-10-20,2.113
+Colorado,colorado,2025-10-27,2.107
+Colorado,colorado,2025-11-03,2.104
+Colorado,colorado,2025-11-10,2.115
+Colorado,colorado,2025-11-17,2.121
+Colorado,colorado,2025-11-24,2.155
+Colorado,colorado,2025-12-01,2.172
+Colorado,colorado,2025-12-08,2.225
+Colorado,colorado,2025-12-15,2.256
+Colorado,colorado,2025-12-22,2.259
+Colorado,colorado,2025-12-29,2.261
+Colorado,colorado,2026-01-05,2.255
+Colorado,colorado,2026-01-12,2.256
+Colorado,colorado,2026-01-19,2.259
+Colorado,colorado,2026-01-26,2.279
+Colorado,colorado,2026-02-02,2.295
+Colorado,colorado,2026-02-09,2.3
+Colorado,colorado,2026-02-16,2.3
+Colorado,colorado,2026-02-23,2.294
+Colorado,colorado,2026-03-02,2.294
+Colorado,colorado,2026-03-09,2.294
+Colorado,colorado,2026-03-16,2.296
+Colorado,colorado,2026-03-23,2.304
+Colorado,colorado,2026-03-30,2.302
+Colorado,colorado,2026-10-05,2.261
+Colorado,colorado,2026-10-12,2.262
+Colorado,colorado,2026-10-19,2.362
+Idaho,idaho,2024-10-07,2.318
+Idaho,idaho,2024-10-14,2.338
+Idaho,idaho,2024-10-21,2.338
+Idaho,idaho,2024-10-28,2.318
+Idaho,idaho,2024-11-04,2.35
+Idaho,idaho,2024-11-11,2.364
+Idaho,idaho,2024-11-18,2.402
+Idaho,idaho,2024-11-25,2.429
+Idaho,idaho,2024-12-02,2.435
+Idaho,idaho,2024-12-09,2.424
+Idaho,idaho,2024-12-16,2.462
+Idaho,idaho,2024-12-23,2.455
+Idaho,idaho,2024-12-30,2.442
+Idaho,idaho,2025-01-06,2.526
+Idaho,idaho,2025-01-13,2.54
+Idaho,idaho,2025-01-20,2.631
+Idaho,idaho,2025-01-27,2.621
+Idaho,idaho,2025-02-03,2.607
+Idaho,idaho,2025-02-10,2.612
+Idaho,idaho,2025-02-17,2.612
+Idaho,idaho,2025-02-24,2.613
+Idaho,idaho,2025-03-03,2.625
+Idaho,idaho,2025-03-10,2.611
+Idaho,idaho,2025-03-17,2.599
+Idaho,idaho,2025-03-24,2.597
+Idaho,idaho,2025-03-31,2.597
+Idaho,idaho,2025-10-06,2.362
+Idaho,idaho,2025-10-13,2.31
+Idaho,idaho,2025-10-20,2.293
+Idaho,idaho,2025-10-27,2.312
+Idaho,idaho,2025-11-03,2.312
+Idaho,idaho,2025-11-10,2.308
+Idaho,idaho,2025-11-17,2.309
+Idaho,idaho,2025-11-24,2.307
+Idaho,idaho,2025-12-01,2.303
+Idaho,idaho,2025-12-08,2.346
+Idaho,idaho,2025-12-15,2.393
+Idaho,idaho,2025-12-22,2.39
+Idaho,idaho,2025-12-29,2.394
+Idaho,idaho,2026-01-05,2.385
+Idaho,idaho,2026-01-12,2.397
+Idaho,idaho,2026-01-19,2.393
+Idaho,idaho,2026-01-26,2.418
+Idaho,idaho,2026-02-02,2.427
+Idaho,idaho,2026-02-09,2.4
+Idaho,idaho,2026-02-16,2.398
+Idaho,idaho,2026-02-23,2.384
+Idaho,idaho,2026-03-02,2.368
+Idaho,idaho,2026-03-09,2.378
+Idaho,idaho,2026-03-16,2.377
+Idaho,idaho,2026-03-23,2.384
+Idaho,idaho,2026-03-30,2.397
+Idaho,idaho,2026-10-05,2.514
+Idaho,idaho,2026-10-12,2.625
+Idaho,idaho,2026-10-19,2.586
+Montana,montana,2024-10-07,1.89
+Montana,montana,2024-10-14,1.882
+Montana,montana,2024-10-21,1.888
+Montana,montana,2024-10-28,1.91
+Montana,montana,2024-11-04,1.948
+Montana,montana,2024-11-11,2.045
+Montana,montana,2024-11-18,2.053
+Montana,montana,2024-11-25,2.073
+Montana,montana,2024-12-02,2.082
+Montana,montana,2024-12-09,2.087
+Montana,montana,2024-12-16,2.101
+Montana,montana,2024-12-23,2.096
+Montana,montana,2024-12-30,2.089
+Montana,montana,2025-01-06,2.13
+Montana,montana,2025-01-13,2.159
+Montana,montana,2025-01-20,2.329
+Montana,montana,2025-01-27,2.344
+Montana,montana,2025-02-03,2.349
+Montana,montana,2025-02-10,2.357
+Montana,montana,2025-02-17,2.378
+Montana,montana,2025-02-24,2.381
+Montana,montana,2025-03-03,2.382
+Montana,montana,2025-03-10,2.362
+Montana,montana,2025-03-17,2.358
+Montana,montana,2025-03-24,2.348
+Montana,montana,2025-03-31,2.324
+Montana,montana,2025-10-06,1.84
+Montana,montana,2025-10-13,1.873
+Montana,montana,2025-10-20,1.875
+Montana,montana,2025-10-27,1.891
+Montana,montana,2025-11-03,1.895
+Montana,montana,2025-11-10,1.902
+Montana,montana,2025-11-17,1.937
+Montana,montana,2025-11-24,1.932
+Montana,montana,2025-12-01,1.977
+Montana,montana,2025-12-08,1.993
+Montana,montana,2025-12-15,1.947
+Montana,montana,2025-12-22,1.967
+Montana,montana,2025-12-29,1.977
+Montana,montana,2026-01-05,2.092
+Montana,montana,2026-01-12,2.099
+Montana,montana,2026-01-19,2.101
+Montana,montana,2026-01-26,2.112
+Montana,montana,2026-02-02,2.108
+Montana,montana,2026-02-09,2.111
+Montana,montana,2026-02-16,2.12
+Montana,montana,2026-02-23,2.122
+Montana,montana,2026-03-02,2.116
+Montana,montana,2026-03-09,2.123
+Montana,montana,2026-03-16,2.199
+Montana,montana,2026-03-23,2.199
+Montana,montana,2026-03-30,2.121
+Montana,montana,2026-10-05,1.914
+Montana,montana,2026-10-12,2.141
+Montana,montana,2026-10-19,2.168
+Utah,utah,2024-10-07,2.278
+Utah,utah,2024-10-14,2.291
+Utah,utah,2024-10-21,2.282
+Utah,utah,2024-10-28,2.29
+Utah,utah,2024-11-04,2.324
+Utah,utah,2024-11-11,2.328
+Utah,utah,2024-11-18,2.326
+Utah,utah,2024-11-25,2.338
+Utah,utah,2024-12-02,2.335
+Utah,utah,2024-12-09,2.381
+Utah,utah,2024-12-16,2.391
+Utah,utah,2024-12-23,2.381
+Utah,utah,2024-12-30,2.38
+Utah,utah,2025-01-06,2.412
+Utah,utah,2025-01-13,2.406
+Utah,utah,2025-01-20,2.443
+Utah,utah,2025-01-27,2.486
+Utah,utah,2025-02-03,2.471
+Utah,utah,2025-02-10,2.488
+Utah,utah,2025-02-17,2.488
+Utah,utah,2025-02-24,2.485
+Utah,utah,2025-03-03,2.487
+Utah,utah,2025-03-10,2.49
+Utah,utah,2025-03-17,2.477
+Utah,utah,2025-03-24,2.469
+Utah,utah,2025-03-31,2.461
+Utah,utah,2025-10-06,2.248
+Utah,utah,2025-10-13,2.275
+Utah,utah,2025-10-20,2.256
+Utah,utah,2025-10-27,2.257
+Utah,utah,2025-11-03,2.248
+Utah,utah,2025-11-10,2.243
+Utah,utah,2025-11-17,2.249
+Utah,utah,2025-11-24,2.265
+Utah,utah,2025-12-01,2.27
+Utah,utah,2025-12-08,2.284
+Utah,utah,2025-12-15,2.3
+Utah,utah,2025-12-22,2.3
+Utah,utah,2025-12-29,2.29
+Utah,utah,2026-01-05,2.297
+Utah,utah,2026-01-12,2.275
+Utah,utah,2026-01-19,2.271
+Utah,utah,2026-01-26,2.318
+Utah,utah,2026-02-02,2.334
+Utah,utah,2026-02-09,2.327
+Utah,utah,2026-02-16,2.334
+Utah,utah,2026-02-23,2.315
+Utah,utah,2026-03-02,2.32
+Utah,utah,2026-03-09,2.318
+Utah,utah,2026-03-16,2.329
+Utah,utah,2026-03-23,2.343
+Utah,utah,2026-03-30,2.337
+Utah,utah,2026-10-05,2.227
+Utah,utah,2026-10-12,2.293
+Utah,utah,2026-10-19,2.329
